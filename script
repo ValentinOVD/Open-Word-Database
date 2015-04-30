@@ -1,0 +1,1 @@
+for i in `cat original | sed 's/\n//'` ; do echo -e "msgid \"$i\"\\nmsgstr \"\"\\n" >> bot.pot ; done
