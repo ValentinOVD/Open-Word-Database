@@ -1,10 +1,16 @@
 # Open-Word-Database
   
-Open Word Database  
-  
 A project for creating a big dictionnary which contains all languages !
 
-You can translate words on Launchpad (You don't need to be registered): https://translations.launchpad.net/owd
+# How to help ?
+  
+  
+ - Add all english word you know using botscript.sh (launch the script by using ./botscript.sh)  
+ - Send us the bot.pot created with the script :)  
+ Thanks for the help :)
+
+NEXT STEP, NOT YET :
+You can translate words on Launchpad: https://translations.launchpad.net/owd
   
   
 TODO :
