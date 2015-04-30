@@ -8,5 +8,5 @@ then break
 fi
 echo $text >> original
 done
-for i in `cat original | sed 's/\n//'` ; do echo "msgid \"$i\"\\nmsgstr \"\"\\n" >> bot.pot ; done
+for i in `cat original | sed 's/\n//'` ; do echo -e "msgid \"$i\"\\nmsgstr \"\"\\n" >> bot.pot ; done
 rm original
