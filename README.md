@@ -10,7 +10,7 @@ A project for creating a big dictionnary which contains all languages !
  Thanks for the help :)
 
 NEXT STEP, NOT YET :
-You can translate words on Transifex : https://www.transifex.com/projects/p/database/resource/origin/
+You can translate words on Transifex : https://www.transifex.com/projects/p/database/
   
   
 TODO :
