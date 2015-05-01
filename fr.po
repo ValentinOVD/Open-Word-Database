@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-01 17:40+0000\n"
+"PO-Revision-Date: 2015-05-01 18:36+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/database/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -16912,3337 +16912,3337 @@ msgid "implying"
 msgstr "ce qui implique"
 
 msgid "import"
-msgstr ""
+msgstr "importation"
 
 msgid "import's"
-msgstr ""
+msgstr "de l'importation"
 
 msgid "importance"
-msgstr ""
+msgstr "importance"
 
 msgid "important"
-msgstr ""
+msgstr "important"
 
 msgid "importantly"
-msgstr ""
+msgstr "ce qui est important"
 
 msgid "imported"
-msgstr ""
+msgstr "importé"
 
 msgid "importing"
-msgstr ""
+msgstr "importation"
 
 msgid "imports"
-msgstr ""
+msgstr "importations"
 
 msgid "impose"
-msgstr ""
+msgstr "imposer"
 
 msgid "imposed"
-msgstr ""
+msgstr "imposée"
 
 msgid "imposes"
-msgstr ""
+msgstr "impose"
 
 msgid "imposing"
-msgstr ""
+msgstr "imposant"
 
 msgid "impossible"
-msgstr ""
+msgstr "Impossible"
 
 msgid "impractical"
-msgstr ""
+msgstr "peu pratique"
 
 msgid "impress"
-msgstr ""
+msgstr "Impress"
 
 msgid "impressed"
-msgstr ""
+msgstr "impressionné"
 
 msgid "impresses"
-msgstr ""
+msgstr "impressionne"
 
 msgid "impressing"
-msgstr ""
+msgstr "impressionnant"
 
 msgid "impression"
-msgstr ""
+msgstr "impression"
 
 msgid "impression's"
-msgstr ""
+msgstr "de l'impression"
 
 msgid "impressions"
-msgstr ""
+msgstr "impressions"
 
 msgid "impressive"
-msgstr ""
+msgstr "impressionnant"
 
 msgid "imprison"
-msgstr ""
+msgstr "emprisonner"
 
 msgid "imprisoned"
-msgstr ""
+msgstr "emprisonné"
 
 msgid "imprisoning"
-msgstr ""
+msgstr "emprisonnant"
 
 msgid "imprisons"
-msgstr ""
+msgstr "emprisonne"
 
 msgid "improbable"
-msgstr ""
+msgstr "improbable"
 
 msgid "improve"
-msgstr ""
+msgstr "améliorer"
 
 msgid "improved"
-msgstr ""
+msgstr "amélioré"
 
 msgid "improvement"
-msgstr ""
+msgstr "amélioration"
 
 msgid "improvement's"
-msgstr ""
+msgstr "de l'amélioration"
 
 msgid "improvements"
-msgstr ""
+msgstr "améliorations"
 
 msgid "improves"
-msgstr ""
+msgstr "améliore"
 
 msgid "improving"
-msgstr ""
+msgstr "amélioration de la"
 
 msgid "impulse"
-msgstr ""
+msgstr "impulsion"
 
 msgid "in"
-msgstr ""
+msgstr "dans"
 
 msgid "inability"
-msgstr ""
+msgstr "incapacité"
 
 msgid "inaccessible"
-msgstr ""
+msgstr "inaccessible"
 
 msgid "inaccuracies"
-msgstr ""
+msgstr "inexactitudes"
 
 msgid "inaccuracy"
-msgstr ""
+msgstr "inexactitude"
 
 msgid "inaccuracy's"
-msgstr ""
+msgstr "de l'inexactitude"
 
 msgid "inaccurate"
-msgstr ""
+msgstr "inexactes"
 
 msgid "inadequate"
-msgstr ""
+msgstr "inadéquate"
 
 msgid "inadvertently"
-msgstr ""
+msgstr "par inadvertance"
 
 msgid "inane"
-msgstr ""
+msgstr "inepte"
 
 msgid "inappropriate"
-msgstr ""
+msgstr "inapproprié"
 
 msgid "incapable"
-msgstr ""
+msgstr "incapable"
 
 msgid "incarnation"
-msgstr ""
+msgstr "incarnation"
 
 msgid "incentive"
-msgstr ""
+msgstr "incitatif"
 
 msgid "inch"
-msgstr ""
+msgstr "pouce"
 
 msgid "inch's"
-msgstr ""
+msgstr "de pouce"
 
 msgid "inches"
-msgstr ""
+msgstr "pouces"
 
 msgid "incidence"
-msgstr ""
+msgstr "incidence"
 
 msgid "incident"
-msgstr ""
+msgstr "incident"
 
 msgid "incident's"
-msgstr ""
+msgstr "d'incident"
 
 msgid "incidental"
-msgstr ""
+msgstr "accessoires"
 
 msgid "incidentally"
-msgstr ""
+msgstr "soit dit en passant"
 
 msgid "incidents"
-msgstr ""
+msgstr "incidents"
 
 msgid "inclination"
-msgstr ""
+msgstr "inclinaison"
 
 msgid "incline"
-msgstr ""
+msgstr "plan incliné"
 
 msgid "inclined"
-msgstr ""
+msgstr "incliné"
 
 msgid "inclines"
-msgstr ""
+msgstr "plans inclinés"
 
 msgid "inclining"
-msgstr ""
+msgstr "inclinant"
 
 msgid "include"
-msgstr ""
+msgstr "inclure"
 
 msgid "included"
-msgstr ""
+msgstr "inclus"
 
 msgid "includes"
-msgstr ""
+msgstr "comprend"
 
 msgid "including"
-msgstr ""
+msgstr "y compris"
 
 msgid "inclusion"
-msgstr ""
+msgstr "inclusion"
 
 msgid "inclusive"
-msgstr ""
+msgstr "inclusive"
 
 msgid "incoherent"
-msgstr ""
+msgstr "incohérente"
 
 msgid "income"
-msgstr ""
+msgstr "revenu"
 
 msgid "incoming"
-msgstr ""
+msgstr "entrants"
 
 msgid "incompatible"
-msgstr ""
+msgstr "incompatible"
 
 msgid "incompetence"
-msgstr ""
+msgstr "incompétence"
 
 msgid "incompetent"
-msgstr ""
+msgstr "incompétent"
 
 msgid "incomplete"
-msgstr ""
+msgstr "incomplète"
 
 msgid "incomprehensible"
-msgstr ""
+msgstr "incompréhensible"
 
 msgid "inconsistencies"
-msgstr ""
+msgstr "incohérences"
 
 msgid "inconsistency"
-msgstr ""
+msgstr "incohérence"
 
 msgid "inconsistency's"
-msgstr ""
+msgstr "de l'incohérence"
 
 msgid "inconsistent"
-msgstr ""
+msgstr "incompatible"
 
 msgid "inconvenience"
-msgstr ""
+msgstr "inconvénients"
 
 msgid "inconvenienced"
-msgstr ""
+msgstr "incommodés"
 
 msgid "inconveniences"
-msgstr ""
+msgstr "inconvénients"
 
 msgid "inconveniencing"
-msgstr ""
+msgstr "incommoder"
 
 msgid "inconvenient"
-msgstr ""
+msgstr "qui dérange"
 
 msgid "incorporate"
-msgstr ""
+msgstr "incorporer"
 
 msgid "incorporated"
-msgstr ""
+msgstr "incorporé"
 
 msgid "incorporates"
-msgstr ""
+msgstr "incorpore"
 
 msgid "incorporating"
-msgstr ""
+msgstr "incorporant"
 
 msgid "incorrect"
-msgstr ""
+msgstr "incorrect"
 
 msgid "incorrectly"
-msgstr ""
+msgstr "incorrectement"
 
 msgid "increase"
-msgstr ""
+msgstr "augmentation"
 
 msgid "increase's"
-msgstr ""
+msgstr "de l'augmentation"
 
 msgid "increased"
-msgstr ""
+msgstr "augmenté"
 
 msgid "increases"
-msgstr ""
+msgstr "augmente"
 
 msgid "increasing"
-msgstr ""
+msgstr "augmentant"
 
 msgid "increasingly"
-msgstr ""
+msgstr "plus en plus"
 
 msgid "incredible"
-msgstr ""
+msgstr "incroyable"
 
 msgid "incredibly"
-msgstr ""
+msgstr "incroyablement"
 
 msgid "increment"
-msgstr ""
+msgstr "incrément"
 
 msgid "incur"
-msgstr ""
+msgstr "encourir"
 
 msgid "incurred"
-msgstr ""
+msgstr "engagés"
 
 msgid "incurring"
-msgstr ""
+msgstr "encourir"
 
 msgid "incurs"
-msgstr ""
+msgstr "engage"
 
 msgid "indeed"
-msgstr ""
+msgstr "en effet"
 
 msgid "indefensible"
-msgstr ""
+msgstr "indéfendable"
 
 msgid "indefinite"
-msgstr ""
+msgstr "indéfinie"
 
 msgid "indefinitely"
-msgstr ""
+msgstr "indéfiniment"
 
 msgid "indent"
-msgstr ""
+msgstr "tiret"
 
 msgid "independence"
-msgstr ""
+msgstr "indépendance"
 
 msgid "independent"
-msgstr ""
+msgstr "indépendant"
 
 msgid "independently"
-msgstr ""
+msgstr "indépendamment"
 
 msgid "indeterminate"
-msgstr ""
+msgstr "pour une période indéterminée"
 
 msgid "index"
-msgstr ""
+msgstr "index"
 
 msgid "index's"
-msgstr ""
+msgstr "d'indice"
 
 msgid "indexed"
-msgstr ""
+msgstr "indexé"
 
 msgid "indexes"
-msgstr ""
+msgstr "index"
 
 msgid "indexing"
-msgstr ""
+msgstr "indexation"
 
 msgid "indicate"
-msgstr ""
+msgstr "indiquer"
 
 msgid "indicated"
-msgstr ""
+msgstr "indiqué"
 
 msgid "indicates"
-msgstr ""
+msgstr "indique"
 
 msgid "indicating"
-msgstr ""
+msgstr "indiquant"
 
 msgid "indication"
-msgstr ""
+msgstr "indication"
 
 msgid "indication's"
-msgstr ""
+msgstr "d'indication"
 
 msgid "indications"
-msgstr ""
+msgstr "indications"
 
 msgid "indicative"
-msgstr ""
+msgstr "Indicatif"
 
 msgid "indicator"
-msgstr ""
+msgstr "indicateur"
 
 msgid "indicator's"
-msgstr ""
+msgstr "d'indicateur"
 
 msgid "indicators"
-msgstr ""
+msgstr "indicateurs"
 
 msgid "indictment"
-msgstr ""
+msgstr "acte d'accusation"
 
 msgid "indirect"
-msgstr ""
+msgstr "indirecte"
 
 msgid "indirection"
-msgstr ""
+msgstr "indirection"
 
 msgid "indirectly"
-msgstr ""
+msgstr "indirectement"
 
 msgid "indistinguishable"
-msgstr ""
+msgstr "indiscernables"
 
 msgid "individual"
-msgstr ""
+msgstr "individuels"
 
 msgid "individual's"
-msgstr ""
+msgstr "individu"
 
 msgid "individually"
-msgstr ""
+msgstr "individuellement"
 
 msgid "individuals"
-msgstr ""
+msgstr "individus"
 
 msgid "induce"
-msgstr ""
+msgstr "induire"
 
 msgid "induced"
-msgstr ""
+msgstr "induit"
 
 msgid "induces"
-msgstr ""
+msgstr "induit"
 
 msgid "inducing"
-msgstr ""
+msgstr "induisant"
 
 msgid "induction"
-msgstr ""
+msgstr "induction"
 
 msgid "indulge"
-msgstr ""
+msgstr "Faites-vous plaisir"
 
 msgid "indulged"
-msgstr ""
+msgstr "se livraient"
 
 msgid "indulges"
-msgstr ""
+msgstr "s'abandonne"
 
 msgid "indulging"
-msgstr ""
+msgstr "se livrant"
 
 msgid "industrial"
-msgstr ""
+msgstr "industrielle"
 
 msgid "industries"
-msgstr ""
+msgstr "Industries"
 
 msgid "industry"
-msgstr ""
+msgstr "industrie"
 
 msgid "industry's"
-msgstr ""
+msgstr "industrie"
 
 msgid "ineffective"
-msgstr ""
+msgstr "inefficace"
 
 msgid "inefficiency"
-msgstr ""
+msgstr "inefficacité"
 
 msgid "inefficient"
-msgstr ""
+msgstr "inefficace"
 
 msgid "inequality"
-msgstr ""
+msgstr "inégalité"
 
 msgid "inertia"
-msgstr ""
+msgstr "inertie"
 
 msgid "inevitable"
-msgstr ""
+msgstr "inévitable"
 
 msgid "inevitably"
-msgstr ""
+msgstr "inévitablement"
 
 msgid "inexperienced"
-msgstr ""
+msgstr "inexpérimentés"
 
 msgid "infallible"
-msgstr ""
+msgstr "infaillible"
 
 msgid "infamous"
-msgstr ""
+msgstr "infâme"
 
 msgid "infant"
-msgstr ""
+msgstr "enfant en bas âge"
 
 msgid "infantile"
-msgstr ""
+msgstr "infantile"
 
 msgid "infect"
-msgstr ""
+msgstr "infecter"
 
 msgid "infected"
-msgstr ""
+msgstr "infectés"
 
 msgid "infecting"
-msgstr ""
+msgstr "infecter"
 
 msgid "infection"
-msgstr ""
+msgstr "infection"
 
 msgid "infects"
-msgstr ""
+msgstr "infecte"
 
 msgid "infelicity"
-msgstr ""
+msgstr "infelicity"
 
 msgid "infer"
-msgstr ""
+msgstr "déduire"
 
 msgid "inference"
-msgstr ""
+msgstr "inférence"
 
 msgid "inferior"
-msgstr ""
+msgstr "inférieure"
 
 msgid "inferiority"
-msgstr ""
+msgstr "infériorité"
 
 msgid "infinite"
-msgstr ""
+msgstr "infini"
 
 msgid "infinitely"
-msgstr ""
+msgstr "infiniment"
 
 msgid "infinity"
-msgstr ""
+msgstr "infini"
 
 msgid "inflation"
-msgstr ""
+msgstr "inflation"
 
 msgid "inflexible"
-msgstr ""
+msgstr "inflexible"
 
 msgid "inflict"
-msgstr ""
+msgstr "infliger"
 
 msgid "influence"
-msgstr ""
+msgstr "influence"
 
 msgid "influence's"
-msgstr ""
+msgstr "de l'influence"
 
 msgid "influenced"
-msgstr ""
+msgstr "influencé"
 
 msgid "influences"
-msgstr ""
+msgstr "influences"
 
 msgid "influencing"
-msgstr ""
+msgstr "influençant"
 
 msgid "influential"
-msgstr ""
+msgstr "influent"
 
 msgid "info"
-msgstr ""
+msgstr "info"
 
 msgid "inform"
-msgstr ""
+msgstr "informer"
 
 msgid "informal"
-msgstr ""
+msgstr "informel"
 
 msgid "informally"
-msgstr ""
+msgstr "officieusement"
 
 msgid "information"
-msgstr ""
+msgstr "information"
 
 msgid "informative"
-msgstr ""
+msgstr "informative"
 
 msgid "informed"
-msgstr ""
+msgstr "informé"
 
 msgid "informing"
-msgstr ""
+msgstr "informant"
 
 msgid "informs"
-msgstr ""
+msgstr "informe"
 
 msgid "infrastructure"
-msgstr ""
+msgstr "infrastructure"
 
 msgid "infrequent"
-msgstr ""
+msgstr "peu fréquents"
 
 msgid "infringement"
-msgstr ""
+msgstr "contrefaçon"
 
 msgid "ingenious"
-msgstr ""
+msgstr "ingénieux"
 
 msgid "ingredient"
-msgstr ""
+msgstr "ingrédient"
 
 msgid "ingredient's"
-msgstr ""
+msgstr "de l'ingrédient"
 
 msgid "ingredients"
-msgstr ""
+msgstr "ingrédients"
 
 msgid "inhabit"
-msgstr ""
+msgstr "habiter"
 
 msgid "inhabitant"
-msgstr ""
+msgstr "habitant"
 
 msgid "inhabitant's"
-msgstr ""
+msgstr "habitant"
 
 msgid "inhabitants"
-msgstr ""
+msgstr "habitants"
 
 msgid "inhabited"
-msgstr ""
+msgstr "habitée"
 
 msgid "inhabiting"
-msgstr ""
+msgstr "qui habitent"
 
 msgid "inhabits"
-msgstr ""
+msgstr "habite"
 
 msgid "inherent"
-msgstr ""
+msgstr "inhérente"
 
 msgid "inherently"
-msgstr ""
+msgstr "intrinsèquement"
 
 msgid "inherit"
-msgstr ""
+msgstr "hériter"
 
 msgid "inheritance"
-msgstr ""
+msgstr "héritage"
 
 msgid "inherited"
-msgstr ""
+msgstr "hérité"
 
 msgid "inheriting"
-msgstr ""
+msgstr "héritant"
 
 msgid "inherits"
-msgstr ""
+msgstr "hérite"
 
 msgid "inhibit"
-msgstr ""
+msgstr "inhiber"
 
 msgid "inhibited"
-msgstr ""
+msgstr "inhibé"
 
 msgid "inhibiting"
-msgstr ""
+msgstr "inhibant"
 
 msgid "inhibition"
-msgstr ""
+msgstr "inhibition"
 
 msgid "inhibits"
-msgstr ""
+msgstr "inhibe"
 
 msgid "initial"
-msgstr ""
+msgstr "initial"
 
 msgid "initial's"
-msgstr ""
+msgstr "d'initial"
 
 msgid "initialization"
-msgstr ""
+msgstr "initialisation"
 
 msgid "initialize"
-msgstr ""
+msgstr "initialiser"
 
 msgid "initialized"
-msgstr ""
+msgstr "initialisé"
 
 msgid "initializes"
-msgstr ""
+msgstr "Initialise"
 
 msgid "initializing"
-msgstr ""
+msgstr "l'initialisation"
 
 msgid "initially"
-msgstr ""
+msgstr "au départ"
 
 msgid "initials"
-msgstr ""
+msgstr "initiales"
 
 msgid "initiate"
-msgstr ""
+msgstr "lancer"
 
 msgid "initiated"
-msgstr ""
+msgstr "initié"
 
 msgid "initiates"
-msgstr ""
+msgstr "initiés"
 
 msgid "initiating"
-msgstr ""
+msgstr "initiant"
 
 msgid "initiative"
-msgstr ""
+msgstr "Initiative"
 
 msgid "inject"
-msgstr ""
+msgstr "injecter"
 
 msgid "injure"
-msgstr ""
+msgstr "blesser"
 
 msgid "injured"
-msgstr ""
+msgstr "blessé"
 
 msgid "injures"
-msgstr ""
+msgstr "blesse"
 
 msgid "injuries"
-msgstr ""
+msgstr "blessures"
 
 msgid "injuring"
-msgstr ""
+msgstr "blessant"
 
 msgid "injury"
-msgstr ""
+msgstr "blessure"
 
 msgid "injury's"
-msgstr ""
+msgstr "de blessures"
 
 msgid "injustice"
-msgstr ""
+msgstr "injustice"
 
 msgid "ink"
-msgstr ""
+msgstr "encre"
 
 msgid "inner"
-msgstr ""
+msgstr "intérieure"
 
 msgid "innocence"
-msgstr ""
+msgstr "innocence"
 
 msgid "innocent"
-msgstr ""
+msgstr "innocent"
 
 msgid "innovation"
-msgstr ""
+msgstr "innovation"
 
 msgid "innovative"
-msgstr ""
+msgstr "innovantes"
 
 msgid "input"
-msgstr ""
+msgstr "entrée"
 
 msgid "input's"
-msgstr ""
+msgstr "de l'entrée"
 
 msgid "inputs"
-msgstr ""
+msgstr "entrées"
 
 msgid "inputted"
-msgstr ""
+msgstr "saisies"
 
 msgid "inputting"
-msgstr ""
+msgstr "saisie"
 
 msgid "inquire"
-msgstr ""
+msgstr "se renseigner"
 
 msgid "inquired"
-msgstr ""
+msgstr "a demandé"
 
 msgid "inquires"
-msgstr ""
+msgstr "demandes de renseignements"
 
 msgid "inquiries"
-msgstr ""
+msgstr "demandes de renseignements"
 
 msgid "inquiring"
-msgstr ""
+msgstr "curieux"
 
 msgid "inquiry"
-msgstr ""
+msgstr "enquête"
 
 msgid "inquiry's"
-msgstr ""
+msgstr "de l'enquête"
 
 msgid "insane"
-msgstr ""
+msgstr "fou"
 
 msgid "insect"
-msgstr ""
+msgstr "insecte"
 
 msgid "insect's"
-msgstr ""
+msgstr "de l'insecte"
 
 msgid "insects"
-msgstr ""
+msgstr "insectes"
 
 msgid "insecure"
-msgstr ""
+msgstr "insécurité"
 
 msgid "insensitive"
-msgstr ""
+msgstr "insensible"
 
 msgid "insert"
-msgstr ""
+msgstr "Insert"
 
 msgid "insert's"
-msgstr ""
+msgstr "de l'insertion"
 
 msgid "inserted"
-msgstr ""
+msgstr "inséré"
 
 msgid "inserting"
-msgstr ""
+msgstr "insertion"
 
 msgid "insertion"
-msgstr ""
+msgstr "insertion"
 
 msgid "inserts"
-msgstr ""
+msgstr "insère"
 
 msgid "inside"
-msgstr ""
+msgstr "à l'intérieur"
 
 msgid "insidious"
-msgstr ""
+msgstr "insidieux"
 
 msgid "insight"
-msgstr ""
+msgstr "Insight"
 
 msgid "insignificant"
-msgstr ""
+msgstr "insignifiant"
 
 msgid "insist"
-msgstr ""
+msgstr "insister"
 
 msgid "insisted"
-msgstr ""
+msgstr "insisté sur le fait"
 
 msgid "insistence"
-msgstr ""
+msgstr "insistance"
 
 msgid "insisting"
-msgstr ""
+msgstr "insistant sur le fait"
 
 msgid "insists"
-msgstr ""
+msgstr "insiste sur le fait"
 
 msgid "insofar"
-msgstr ""
+msgstr "dans la mesure"
 
 msgid "inspect"
-msgstr ""
+msgstr "inspecter"
 
 msgid "inspected"
-msgstr ""
+msgstr "inspecté"
 
 msgid "inspecting"
-msgstr ""
+msgstr "inspection"
 
 msgid "inspection"
-msgstr ""
+msgstr "inspection"
 
 msgid "inspects"
-msgstr ""
+msgstr "inspecte"
 
 msgid "inspiration"
-msgstr ""
+msgstr "inspiration"
 
 msgid "inspire"
-msgstr ""
+msgstr "inspirer"
 
 msgid "inspired"
-msgstr ""
+msgstr "inspiré"
 
 msgid "inspires"
-msgstr ""
+msgstr "inspire"
 
 msgid "inspiring"
-msgstr ""
+msgstr "source d'inspiration"
 
 msgid "install"
-msgstr ""
+msgstr "installer"
 
 msgid "installation"
-msgstr ""
+msgstr "installation"
 
 msgid "installation's"
-msgstr ""
+msgstr "de l'installation"
 
 msgid "installations"
-msgstr ""
+msgstr "installations"
 
 msgid "installed"
-msgstr ""
+msgstr "installé"
 
 msgid "installing"
-msgstr ""
+msgstr "installation"
 
 msgid "installs"
-msgstr ""
+msgstr "installe"
 
 msgid "instance"
-msgstr ""
+msgstr "instance"
 
 msgid "instance's"
-msgstr ""
+msgstr "de l'instance"
 
 msgid "instances"
-msgstr ""
+msgstr "instances"
 
 msgid "instant"
-msgstr ""
+msgstr "instant"
 
 msgid "instantly"
-msgstr ""
+msgstr "instantanément"
 
 msgid "instead"
-msgstr ""
+msgstr "au lieu de cela"
 
 msgid "instinct"
-msgstr ""
+msgstr "instinct"
 
 msgid "institute"
-msgstr ""
+msgstr "Institut"
 
 msgid "institution"
-msgstr ""
+msgstr "institution"
 
 msgid "institution's"
-msgstr ""
+msgstr "de l'institution"
 
 msgid "institutions"
-msgstr ""
+msgstr "institutions"
 
 msgid "instruct"
-msgstr ""
+msgstr "instruire"
 
 msgid "instructed"
-msgstr ""
+msgstr "instruit"
 
 msgid "instructing"
-msgstr ""
+msgstr "instruire"
 
 msgid "instruction"
-msgstr ""
+msgstr "instruction"
 
 msgid "instruction's"
-msgstr ""
+msgstr "instruction"
 
 msgid "instructions"
-msgstr ""
+msgstr "instructions"
 
 msgid "instructs"
-msgstr ""
+msgstr "indique à"
 
 msgid "instrument"
-msgstr ""
+msgstr "instrument"
 
 msgid "instrument's"
-msgstr ""
+msgstr "de l'instrument"
 
 msgid "instrumental"
-msgstr ""
+msgstr "instrumental"
 
 msgid "instruments"
-msgstr ""
+msgstr "instruments"
 
 msgid "insufficient"
-msgstr ""
+msgstr "insuffisante"
 
 msgid "insult"
-msgstr ""
+msgstr "insulte"
 
 msgid "insult's"
-msgstr ""
+msgstr "de l'insulte"
 
 msgid "insulted"
-msgstr ""
+msgstr "insulté"
 
 msgid "insulting"
-msgstr ""
+msgstr "insulte"
 
 msgid "insults"
-msgstr ""
+msgstr "insultes"
 
 msgid "insurance"
-msgstr ""
+msgstr "assurance"
 
 msgid "intact"
-msgstr ""
+msgstr "intact"
 
 msgid "intake"
-msgstr ""
+msgstr "apport"
 
 msgid "integer"
-msgstr ""
+msgstr "entier"
 
 msgid "integer's"
-msgstr ""
+msgstr "de l'entier"
 
 msgid "integers"
-msgstr ""
+msgstr "entiers"
 
 msgid "integral"
-msgstr ""
+msgstr "Integral"
 
 msgid "integrate"
-msgstr ""
+msgstr "intégrer"
 
 msgid "integrated"
-msgstr ""
+msgstr "intégré"
 
 msgid "integrates"
-msgstr ""
+msgstr "intègre"
 
 msgid "integrating"
-msgstr ""
+msgstr "intégration"
 
 msgid "integration"
-msgstr ""
+msgstr "intégration"
 
 msgid "integrity"
-msgstr ""
+msgstr "intégrité"
 
 msgid "intellect"
-msgstr ""
+msgstr "intellect"
 
 msgid "intellectual"
-msgstr ""
+msgstr "intellectuelle"
 
 msgid "intelligence"
-msgstr ""
+msgstr "intelligence"
 
 msgid "intelligent"
-msgstr ""
+msgstr "intelligent"
 
 msgid "intend"
-msgstr ""
+msgstr "l'intention"
 
 msgid "intended"
-msgstr ""
+msgstr "destiné"
 
 msgid "intending"
-msgstr ""
+msgstr "avec l'intention"
 
 msgid "intends"
-msgstr ""
+msgstr "a l'intention de"
 
 msgid "intense"
-msgstr ""
+msgstr "intense"
 
 msgid "intensely"
-msgstr ""
+msgstr "intensément"
 
 msgid "intensity"
-msgstr ""
+msgstr "intensité"
 
 msgid "intensive"
-msgstr ""
+msgstr "intensive"
 
 msgid "intent"
-msgstr ""
+msgstr "intention"
 
 msgid "intention"
-msgstr ""
+msgstr "intention"
 
 msgid "intention's"
-msgstr ""
+msgstr "de l'intention"
 
 msgid "intentional"
-msgstr ""
+msgstr "intentionnelle"
 
 msgid "intentionally"
-msgstr ""
+msgstr "intentionnellement"
 
 msgid "intentions"
-msgstr ""
+msgstr "intentions"
 
 msgid "inter"
-msgstr ""
+msgstr "inter"
 
 msgid "interact"
-msgstr ""
+msgstr "interagir"
 
 msgid "interacted"
-msgstr ""
+msgstr "interagi"
 
 msgid "interacting"
-msgstr ""
+msgstr "interaction"
 
 msgid "interaction"
-msgstr ""
+msgstr "interaction"
 
 msgid "interaction's"
-msgstr ""
+msgstr "de l'interaction"
 
 msgid "interactions"
-msgstr ""
+msgstr "interactions"
 
 msgid "interactive"
-msgstr ""
+msgstr "Interactive"
 
 msgid "interactively"
-msgstr ""
+msgstr "mode interactif"
 
 msgid "interacts"
-msgstr ""
+msgstr "interagit"
 
 msgid "intercourse"
-msgstr ""
+msgstr "rapports sexuels"
 
 msgid "interest"
-msgstr ""
+msgstr "intérêt"
 
 msgid "interest's"
-msgstr ""
+msgstr "de l'intérêt"
 
 msgid "interested"
-msgstr ""
+msgstr "intéressées"
 
 msgid "interesting"
-msgstr ""
+msgstr "intéressant"
 
 msgid "interestingly"
-msgstr ""
+msgstr "Il est intéressant"
 
 msgid "interests"
-msgstr ""
+msgstr "intérêts"
 
 msgid "interface"
-msgstr ""
+msgstr "interface"
 
 msgid "interface's"
-msgstr ""
+msgstr "interface"
 
 msgid "interfaced"
-msgstr ""
+msgstr "interfacé"
 
 msgid "interfaces"
-msgstr ""
+msgstr "interfaces"
 
 msgid "interfacing"
-msgstr ""
+msgstr "Entoilage"
 
 msgid "interfere"
-msgstr ""
+msgstr "interférer"
 
 msgid "interfered"
-msgstr ""
+msgstr "interféré"
 
 msgid "interference"
-msgstr ""
+msgstr "interférence"
 
 msgid "interferes"
-msgstr ""
+msgstr "interfère"
 
 msgid "interfering"
-msgstr ""
+msgstr "interférant"
 
 msgid "interim"
-msgstr ""
+msgstr "intérimaire"
 
 msgid "interior"
-msgstr ""
+msgstr "intérieur"
 
 msgid "intermediate"
-msgstr ""
+msgstr "intermédiaire"
 
 msgid "intermittent"
-msgstr ""
+msgstr "intermittent"
 
 msgid "internal"
-msgstr ""
+msgstr "interne"
 
 msgid "internally"
-msgstr ""
+msgstr "en interne"
 
 msgid "internals"
-msgstr ""
+msgstr "Internals"
 
 msgid "international"
-msgstr ""
+msgstr "international"
 
 msgid "interpret"
-msgstr ""
+msgstr "interpréter"
 
 msgid "interpretation"
-msgstr ""
+msgstr "interprétation"
 
 msgid "interpretation's"
-msgstr ""
+msgstr "de l'interprétation"
 
 msgid "interpretations"
-msgstr ""
+msgstr "interprétations"
 
 msgid "interpreted"
-msgstr ""
+msgstr "interprété"
 
 msgid "interpreter"
-msgstr ""
+msgstr "interprète"
 
 msgid "interpreting"
-msgstr ""
+msgstr "interprétation"
 
 msgid "interprets"
-msgstr ""
+msgstr "interprète"
 
 msgid "interrogate"
-msgstr ""
+msgstr "interroger"
 
 msgid "interrupt"
-msgstr ""
+msgstr "interruption"
 
 msgid "interrupt's"
-msgstr ""
+msgstr "d'interruption"
 
 msgid "interrupted"
-msgstr ""
+msgstr "interrompu"
 
 msgid "interrupting"
-msgstr ""
+msgstr "interruption de la"
 
 msgid "interruption"
-msgstr ""
+msgstr "interruption"
 
 msgid "interruption's"
-msgstr ""
+msgstr "d'interruption"
 
 msgid "interruptions"
-msgstr ""
+msgstr "interruptions"
 
 msgid "interrupts"
-msgstr ""
+msgstr "interruptions"
 
 msgid "intersection"
-msgstr ""
+msgstr "intersection"
 
 msgid "intersections"
-msgstr ""
+msgstr "intersections"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalle"
 
 msgid "interval's"
-msgstr ""
+msgstr "de l'intervalle"
 
 msgid "intervals"
-msgstr ""
+msgstr "intervalles"
 
 msgid "intervene"
-msgstr ""
+msgstr "intervenir"
 
 msgid "intervened"
-msgstr ""
+msgstr "est intervenu"
 
 msgid "intervenes"
-msgstr ""
+msgstr "intervient"
 
 msgid "intervening"
-msgstr ""
+msgstr "intervenant"
 
 msgid "intervention"
-msgstr ""
+msgstr "intervention"
 
 msgid "interview"
-msgstr ""
+msgstr "entrevue"
 
 msgid "interview's"
-msgstr ""
+msgstr "de l'entrevue"
 
 msgid "interviewed"
-msgstr ""
+msgstr "interviewé"
 
 msgid "interviewing"
-msgstr ""
+msgstr "entrevue"
 
 msgid "interviews"
-msgstr ""
+msgstr "entrevues"
 
 msgid "intimate"
-msgstr ""
+msgstr "intime"
 
 msgid "into"
-msgstr ""
+msgstr "dans"
 
 msgid "intolerance"
-msgstr ""
+msgstr "intolérance"
 
 msgid "intrinsic"
-msgstr ""
+msgstr "intrinsèque"
 
 msgid "intrinsically"
-msgstr ""
+msgstr "intrinsèquement"
 
 msgid "introduce"
-msgstr ""
+msgstr "mettre en place"
 
 msgid "introduced"
-msgstr ""
+msgstr "introduit"
 
 msgid "introduces"
-msgstr ""
+msgstr "introduit"
 
 msgid "introducing"
-msgstr ""
+msgstr "À découvrir"
 
 msgid "introduction"
-msgstr ""
+msgstr "Introduction"
 
 msgid "introductory"
-msgstr ""
+msgstr "Introduction"
 
 msgid "intuitive"
-msgstr ""
+msgstr "intuitive"
 
 msgid "invade"
-msgstr ""
+msgstr "envahir"
 
 msgid "invaded"
-msgstr ""
+msgstr "envahi"
 
 msgid "invades"
-msgstr ""
+msgstr "envahit"
 
 msgid "invading"
-msgstr ""
+msgstr "envahir"
 
 msgid "invalid"
-msgstr ""
+msgstr "Non valide"
 
 msgid "invalidate"
-msgstr ""
+msgstr "invalider"
 
 msgid "invaluable"
-msgstr ""
+msgstr "inestimable"
 
 msgid "invariably"
-msgstr ""
+msgstr "invariablement"
 
 msgid "invasion"
-msgstr ""
+msgstr "invasion"
 
 msgid "invent"
-msgstr ""
+msgstr "inventer"
 
 msgid "invented"
-msgstr ""
+msgstr "inventé"
 
 msgid "inventing"
-msgstr ""
+msgstr "inventer"
 
 msgid "invention"
-msgstr ""
+msgstr "invention"
 
 msgid "invention's"
-msgstr ""
+msgstr "de l'invention"
 
 msgid "inventions"
-msgstr ""
+msgstr "inventions"
 
 msgid "inventor"
-msgstr ""
+msgstr "inventeur"
 
 msgid "invents"
-msgstr ""
+msgstr "invente"
 
 msgid "inverse"
-msgstr ""
+msgstr "inverse"
 
 msgid "invert"
-msgstr ""
+msgstr "inverser"
 
 msgid "inverted"
-msgstr ""
+msgstr "inversé"
 
 msgid "inverting"
-msgstr ""
+msgstr "inversant"
 
 msgid "inverts"
-msgstr ""
+msgstr "inverse"
 
 msgid "invest"
-msgstr ""
+msgstr "investir"
 
 msgid "investigate"
-msgstr ""
+msgstr "enquêter sur"
 
 msgid "investigated"
-msgstr ""
+msgstr "objet d'une enquête"
 
 msgid "investigates"
-msgstr ""
+msgstr "enquête sur les"
 
 msgid "investigating"
-msgstr ""
+msgstr "enquête sur"
 
 msgid "investigation"
-msgstr ""
+msgstr "enquête"
 
 msgid "investigation's"
-msgstr ""
+msgstr "de l'enquête"
 
 msgid "investigations"
-msgstr ""
+msgstr "enquêtes"
 
 msgid "investment"
-msgstr ""
+msgstr "investissement"
 
 msgid "invisible"
-msgstr ""
+msgstr "invisible"
 
 msgid "invitation"
-msgstr ""
+msgstr "invitation"
 
 msgid "invite"
-msgstr ""
+msgstr "inviter"
 
 msgid "invite's"
-msgstr ""
+msgstr "de l'invitation"
 
 msgid "invited"
-msgstr ""
+msgstr "invité"
 
 msgid "invites"
-msgstr ""
+msgstr "invite"
 
 msgid "inviting"
-msgstr ""
+msgstr "invitant"
 
 msgid "invoke"
-msgstr ""
+msgstr "invoquer"
 
 msgid "invoked"
-msgstr ""
+msgstr "invoquée"
 
 msgid "invokes"
-msgstr ""
+msgstr "appelle"
 
 msgid "invoking"
-msgstr ""
+msgstr "invoquant"
 
 msgid "involve"
-msgstr ""
+msgstr "impliquer"
 
 msgid "involved"
-msgstr ""
+msgstr "impliqué"
 
 msgid "involvement"
-msgstr ""
+msgstr "participation"
 
 msgid "involves"
-msgstr ""
+msgstr "implique"
 
 msgid "involving"
-msgstr ""
+msgstr "impliquant"
 
 msgid "ion"
-msgstr ""
+msgstr "ion"
 
 msgid "irate"
-msgstr ""
+msgstr "furieux"
 
 msgid "iron"
-msgstr ""
+msgstr "fer"
 
 msgid "ironic"
-msgstr ""
+msgstr "ironique"
 
 msgid "irony"
-msgstr ""
+msgstr "ironie"
 
 msgid "irrational"
-msgstr ""
+msgstr "irrationnel"
 
 msgid "irrelevant"
-msgstr ""
+msgstr "non pertinent"
 
 msgid "irrespective"
-msgstr ""
+msgstr "quelle que soit"
 
 msgid "irresponsible"
-msgstr ""
+msgstr "irresponsable"
 
 msgid "irritate"
-msgstr ""
+msgstr "irriter"
 
 msgid "irritated"
-msgstr ""
+msgstr "irrité"
 
 msgid "irritates"
-msgstr ""
+msgstr "irrite"
 
 msgid "irritating"
-msgstr ""
+msgstr "irritant"
 
 msgid "irritation"
-msgstr ""
+msgstr "irritation"
 
 msgid "is"
-msgstr ""
+msgstr "est"
 
 msgid "island"
-msgstr ""
+msgstr "île"
 
 msgid "island's"
-msgstr ""
+msgstr "de l'île"
 
 msgid "islands"
-msgstr ""
+msgstr "îles"
 
 msgid "isn't"
-msgstr ""
+msgstr "n'est pas"
 
 msgid "isolate"
-msgstr ""
+msgstr "isoler"
 
 msgid "isolated"
-msgstr ""
+msgstr "isolé"
 
 msgid "isolates"
-msgstr ""
+msgstr "isolats"
 
 msgid "isolating"
-msgstr ""
+msgstr "isolant"
 
 msgid "isolation"
-msgstr ""
+msgstr "isolement"
 
 msgid "issue"
-msgstr ""
+msgstr "question"
 
 msgid "issue's"
-msgstr ""
+msgstr "de question"
 
 msgid "issued"
-msgstr ""
+msgstr "émis"
 
 msgid "issues"
-msgstr ""
+msgstr "questions"
 
 msgid "issuing"
-msgstr ""
+msgstr "délivrance"
 
 msgid "it"
-msgstr ""
+msgstr "Il"
 
 msgid "it's"
-msgstr ""
+msgstr "Il a"
 
 msgid "item"
-msgstr ""
+msgstr "ordre du jour"
 
 msgid "item's"
-msgstr ""
+msgstr "élément"
 
 msgid "items"
-msgstr ""
+msgstr "éléments"
 
 msgid "its"
-msgstr ""
+msgstr "sa"
 
 msgid "itself"
-msgstr ""
+msgstr "lui-même"
 
 msgid "jack"
-msgstr ""
+msgstr "Jack"
 
 msgid "jacket"
-msgstr ""
+msgstr "veste"
 
 msgid "jacket's"
-msgstr ""
+msgstr "de veste"
 
 msgid "jackets"
-msgstr ""
+msgstr "vestes"
 
 msgid "jail"
-msgstr ""
+msgstr "prison"
 
 msgid "jam"
-msgstr ""
+msgstr "confiture"
 
 msgid "jam's"
-msgstr ""
+msgstr "de la confiture"
 
 msgid "jammed"
-msgstr ""
+msgstr "coincé"
 
 msgid "jamming"
-msgstr ""
+msgstr "brouillage"
 
 msgid "jams"
-msgstr ""
+msgstr "confitures"
 
 msgid "jargon"
-msgstr ""
+msgstr "jargon"
 
 msgid "jazz"
-msgstr ""
+msgstr "Jazz"
 
 msgid "jealous"
-msgstr ""
+msgstr "jaloux"
 
 msgid "jeans"
-msgstr ""
+msgstr "Jeans"
 
 msgid "jellies"
-msgstr ""
+msgstr "gelées"
 
 msgid "jelly"
-msgstr ""
+msgstr "gelée"
 
 msgid "jelly's"
-msgstr ""
+msgstr "gelée de"
 
 msgid "jerk"
-msgstr ""
+msgstr "Jerk"
 
 msgid "jest"
-msgstr ""
+msgstr "jest"
 
 msgid "jet"
-msgstr ""
+msgstr "Jet"
 
 msgid "job"
-msgstr ""
+msgstr "emploi"
 
 msgid "job's"
-msgstr ""
+msgstr "Job"
 
 msgid "jobs"
-msgstr ""
+msgstr "emplois"
 
 msgid "join"
-msgstr ""
+msgstr "jointure"
 
 msgid "join's"
-msgstr ""
+msgstr "de jointure"
 
 msgid "joined"
-msgstr ""
+msgstr "rejoint"
 
 msgid "joining"
-msgstr ""
+msgstr "rejoindre"
 
 msgid "joins"
-msgstr ""
+msgstr "jointures"
 
 msgid "joint"
-msgstr ""
+msgstr "articulation"
 
 msgid "joint's"
-msgstr ""
+msgstr "de la commune"
 
 msgid "jointly"
-msgstr ""
+msgstr "conjointement"
 
 msgid "joints"
-msgstr ""
+msgstr "articulations"
 
 msgid "joke"
-msgstr ""
+msgstr "blague"
 
 msgid "joke's"
-msgstr ""
+msgstr "Joke"
 
 msgid "joked"
-msgstr ""
+msgstr "a plaisanté"
 
 msgid "jokes"
-msgstr ""
+msgstr "blagues"
 
 msgid "joking"
-msgstr ""
+msgstr "blague"
 
 msgid "jolly"
-msgstr ""
+msgstr "Jolly"
 
 msgid "journal"
-msgstr ""
+msgstr "Journal"
 
 msgid "journal's"
-msgstr ""
+msgstr "du journal"
 
 msgid "journalist"
-msgstr ""
+msgstr "journaliste"
 
 msgid "journalist's"
-msgstr ""
+msgstr "journaliste"
 
 msgid "journalists"
-msgstr ""
+msgstr "journalistes"
 
 msgid "journals"
-msgstr ""
+msgstr "revues"
 
 msgid "journey"
-msgstr ""
+msgstr "voyage"
 
 msgid "joy"
-msgstr ""
+msgstr "joie"
 
 msgid "judge"
-msgstr ""
+msgstr "juge"
 
 msgid "judge's"
-msgstr ""
+msgstr "par le juge"
 
 msgid "judged"
-msgstr ""
+msgstr "jugé"
 
 msgid "judges"
-msgstr ""
+msgstr "juges"
 
 msgid "judging"
-msgstr ""
+msgstr "a en juger"
 
 msgid "judgment"
-msgstr ""
+msgstr "jugement"
 
 msgid "judgment's"
-msgstr ""
+msgstr "de l'arrêt"
 
 msgid "judgments"
-msgstr ""
+msgstr "jugements"
 
 msgid "juice"
-msgstr ""
+msgstr "jus"
 
 msgid "jump"
-msgstr ""
+msgstr "saut"
 
 msgid "jump's"
-msgstr ""
+msgstr "de saut"
 
 msgid "jumped"
-msgstr ""
+msgstr "sauté"
 
 msgid "jumping"
-msgstr ""
+msgstr "saut d'obstacles"
 
 msgid "jumps"
-msgstr ""
+msgstr "sauts"
 
 msgid "junction"
-msgstr ""
+msgstr "jonction"
 
 msgid "jungle"
-msgstr ""
+msgstr "Jungle"
 
 msgid "junior"
-msgstr ""
+msgstr "Junior"
 
 msgid "junk"
-msgstr ""
+msgstr "indésirable"
 
 msgid "jury"
-msgstr ""
+msgstr "jury"
 
 msgid "just"
-msgstr ""
+msgstr "juste"
 
 msgid "justice"
-msgstr ""
+msgstr "justice"
 
 msgid "justifiable"
-msgstr ""
+msgstr "justifiable"
 
 msgid "justifiably"
-msgstr ""
+msgstr "juste titre"
 
 msgid "justification"
-msgstr ""
+msgstr "Justification"
 
 msgid "justified"
-msgstr ""
+msgstr "justifié"
 
 msgid "justifies"
-msgstr ""
+msgstr "justifie"
 
 msgid "justify"
-msgstr ""
+msgstr "justifier"
 
 msgid "justifying"
-msgstr ""
+msgstr "justifiant"
 
 msgid "juvenile"
-msgstr ""
+msgstr "juvénile"
 
 msgid "keen"
-msgstr ""
+msgstr "vif"
 
 msgid "keep"
-msgstr ""
+msgstr "garder"
 
 msgid "keep's"
-msgstr ""
+msgstr "donjon"
 
 msgid "keeper"
-msgstr ""
+msgstr "gardien"
 
 msgid "keeping"
-msgstr ""
+msgstr "maintien de la"
 
 msgid "keeps"
-msgstr ""
+msgstr "garde"
 
 msgid "ken"
-msgstr ""
+msgstr "Ken"
 
 msgid "kept"
-msgstr ""
+msgstr "gardé"
 
 msgid "kernel"
-msgstr ""
+msgstr "noyau"
 
 msgid "kettle"
-msgstr ""
+msgstr "bouilloire"
 
 msgid "key"
-msgstr ""
+msgstr "clé"
 
 msgid "key's"
-msgstr ""
+msgstr "Key"
 
 msgid "keyboard"
-msgstr ""
+msgstr "clavier"
 
 msgid "keyboard's"
-msgstr ""
+msgstr "de clavier"
 
 msgid "keyboards"
-msgstr ""
+msgstr "claviers"
 
 msgid "keyed"
-msgstr ""
+msgstr "Keyed"
 
 msgid "keying"
-msgstr ""
+msgstr "incrustation"
 
 msgid "keys"
-msgstr ""
+msgstr "touches"
 
 msgid "keystroke"
-msgstr ""
+msgstr "séquence de touches"
 
 msgid "keystroke's"
-msgstr ""
+msgstr "de la séquence de touches"
 
 msgid "keystrokes"
-msgstr ""
+msgstr "KeyStrokes"
 
 msgid "keyword"
-msgstr ""
+msgstr "mot clé"
 
 msgid "keyword's"
-msgstr ""
+msgstr "mot clé"
 
 msgid "keywords"
-msgstr ""
+msgstr "Mots-clés"
 
 msgid "kick"
-msgstr ""
+msgstr "coup de pied"
 
 msgid "kicked"
-msgstr ""
+msgstr "coups de pied"
 
 msgid "kicking"
-msgstr ""
+msgstr "coups de pied"
 
 msgid "kicks"
-msgstr ""
+msgstr "coups de pied"
 
 msgid "kid"
-msgstr ""
+msgstr "Kid"
 
 msgid "kid's"
-msgstr ""
+msgstr "enfant"
 
 msgid "kidded"
-msgstr ""
+msgstr "mis bas"
 
 msgid "kidding"
-msgstr ""
+msgstr "une blague"
 
 msgid "kidnap"
-msgstr ""
+msgstr "kidnapper"
 
 msgid "kidnapped"
-msgstr ""
+msgstr "enlevé"
 
 msgid "kidnapping"
-msgstr ""
+msgstr "enlèvement"
 
 msgid "kidnaps"
-msgstr ""
+msgstr "kidnappe"
 
 msgid "kidney"
-msgstr ""
+msgstr "rein"
 
 msgid "kids"
-msgstr ""
+msgstr "enfants"
 
 msgid "kill"
-msgstr ""
+msgstr "tuer"
 
 msgid "kill's"
-msgstr ""
+msgstr "de tuer"
 
 msgid "killed"
-msgstr ""
+msgstr "tué"
 
 msgid "killer"
-msgstr ""
+msgstr "tueur"
 
 msgid "killing"
-msgstr ""
+msgstr "mise à mort"
 
 msgid "kills"
-msgstr ""
+msgstr "Tue"
 
 msgid "kind"
-msgstr ""
+msgstr "genre"
 
 msgid "kind's"
-msgstr ""
+msgstr "du genre"
 
 msgid "kindly"
-msgstr ""
+msgstr "aimablement"
 
 msgid "kindness"
-msgstr ""
+msgstr "gentillesse"
 
 msgid "kinds"
-msgstr ""
+msgstr "sortes"
 
 msgid "king"
-msgstr ""
+msgstr "roi"
 
 msgid "king's"
-msgstr ""
+msgstr "du roi"
 
 msgid "kingdom"
-msgstr ""
+msgstr "Royaume"
 
 msgid "kings"
-msgstr ""
+msgstr "rois"
 
 msgid "kiss"
-msgstr ""
+msgstr "baiser"
 
 msgid "kit"
-msgstr ""
+msgstr "Kit"
 
 msgid "kit's"
-msgstr ""
+msgstr "Kit"
 
 msgid "kitchen"
-msgstr ""
+msgstr "cuisine"
 
 msgid "kits"
-msgstr ""
+msgstr "kits"
 
 msgid "knee"
-msgstr ""
+msgstr "genou"
 
 msgid "knee's"
-msgstr ""
+msgstr "de genou"
 
 msgid "knees"
-msgstr ""
+msgstr "genoux"
 
 msgid "knew"
-msgstr ""
+msgstr "savait"
 
 msgid "knife"
-msgstr ""
+msgstr "couteau"
 
 msgid "knight"
-msgstr ""
+msgstr "Chevalier"
 
 msgid "knock"
-msgstr ""
+msgstr "Knock"
 
 msgid "knock's"
-msgstr ""
+msgstr "de Knock"
 
 msgid "knocked"
-msgstr ""
+msgstr "frappé"
 
 msgid "knocking"
-msgstr ""
+msgstr "frapper"
 
 msgid "knocks"
-msgstr ""
+msgstr "frappe"
 
 msgid "know"
-msgstr ""
+msgstr "sais"
 
 msgid "knowing"
-msgstr ""
+msgstr "sachant"
 
 msgid "knowledge"
-msgstr ""
+msgstr "connaissances"
 
 msgid "known"
-msgstr ""
+msgstr "connu"
 
 msgid "knows"
-msgstr ""
+msgstr "sait"
 
 msgid "lab"
-msgstr ""
+msgstr "Lab"
 
 msgid "lab's"
-msgstr ""
+msgstr "Lab"
 
 msgid "label"
-msgstr ""
+msgstr "étiquette"
 
 msgid "label's"
-msgstr ""
+msgstr "de l'étiquette"
 
 msgid "labeled"
-msgstr ""
+msgstr "étiqueté"
 
 msgid "labeling"
-msgstr ""
+msgstr "étiquetage"
 
 msgid "labels"
-msgstr ""
+msgstr "étiquettes"
 
 msgid "labor"
-msgstr ""
+msgstr "Labor"
 
 msgid "laboratory"
-msgstr ""
+msgstr "laboratoire"
 
 msgid "labs"
-msgstr ""
+msgstr "laboratoires"
 
 msgid "lack"
-msgstr ""
+msgstr "manque"
 
 msgid "lacked"
-msgstr ""
+msgstr "n'avait pas"
 
 msgid "lacking"
-msgstr ""
+msgstr "manque"
 
 msgid "lacks"
-msgstr ""
+msgstr "n'a pas"
 
 msgid "lad"
-msgstr ""
+msgstr "DVL"
 
 msgid "ladder"
-msgstr ""
+msgstr "échelle"
 
 msgid "ladies"
-msgstr ""
+msgstr "Mesdames"
 
 msgid "lady"
-msgstr ""
+msgstr "Dame"
 
 msgid "lady's"
-msgstr ""
+msgstr "cypripède"
 
 msgid "lag"
-msgstr ""
+msgstr "gal"
 
 msgid "lager"
-msgstr ""
+msgstr "Lager"
 
 msgid "laid"
-msgstr ""
+msgstr "portées"
 
 msgid "lain"
-msgstr ""
+msgstr "Lain"
 
 msgid "lake"
-msgstr ""
+msgstr "Lac"
 
 msgid "lamp"
-msgstr ""
+msgstr "lampe"
 
 msgid "land"
-msgstr ""
+msgstr "Terre"
 
 msgid "land's"
-msgstr ""
+msgstr "de la terre"
 
 msgid "landed"
-msgstr ""
+msgstr "atterri"
 
 msgid "landing"
-msgstr ""
+msgstr "atterrissage"
 
 msgid "landlord"
-msgstr ""
+msgstr "locateur"
 
 msgid "lands"
-msgstr ""
+msgstr "terres"
 
 msgid "landscape"
-msgstr ""
+msgstr "paysage"
 
 msgid "lane"
-msgstr ""
+msgstr "Lane"
 
 msgid "language"
-msgstr ""
+msgstr "langue"
 
 msgid "language's"
-msgstr ""
+msgstr "de la langue"
 
 msgid "languages"
-msgstr ""
+msgstr "Traduction"
 
 msgid "large"
-msgstr ""
+msgstr "grand"
 
 msgid "largely"
-msgstr ""
+msgstr "en grande partie"
 
 msgid "larger"
-msgstr ""
+msgstr "plus grande"
 
 msgid "largest"
-msgstr ""
+msgstr "plus grand"
 
 msgid "lark"
-msgstr ""
+msgstr "Alouette"
 
 msgid "laser"
-msgstr ""
+msgstr "laser"
 
 msgid "laser's"
-msgstr ""
+msgstr "de laser"
 
 msgid "lasers"
-msgstr ""
+msgstr "lasers"
 
 msgid "last"
-msgstr ""
+msgstr "dernier"
 
 msgid "last's"
-msgstr ""
+msgstr "m. Last"
 
 msgid "lasted"
-msgstr ""
+msgstr "a duré"
 
 msgid "lasting"
-msgstr ""
+msgstr "une durée de"
 
 msgid "lasts"
-msgstr ""
+msgstr "dure"
 
 msgid "late"
-msgstr ""
+msgstr "vers la fin"
 
 msgid "lately"
-msgstr ""
+msgstr "ces derniers temps"
 
 msgid "later"
-msgstr ""
+msgstr "par la suite"
 
 msgid "latest"
-msgstr ""
+msgstr "dernières"
 
 msgid "latter"
-msgstr ""
+msgstr "ce dernier"
 
 msgid "laugh"
-msgstr ""
+msgstr "rire"
 
 msgid "laugh's"
-msgstr ""
+msgstr "de rire"
 
 msgid "laughed"
-msgstr ""
+msgstr "RI"
 
 msgid "laughing"
-msgstr ""
+msgstr "riant"
 
 msgid "laughs"
-msgstr ""
+msgstr "rires"
 
 msgid "laughter"
-msgstr ""
+msgstr "rire"
 
 msgid "launch"
-msgstr ""
+msgstr "lancement"
 
 msgid "launched"
-msgstr ""
+msgstr "lancé"
 
 msgid "launches"
-msgstr ""
+msgstr "lance"
 
 msgid "launching"
-msgstr ""
+msgstr "lancement"
 
 msgid "lavatory"
-msgstr ""
+msgstr "lavabo"
 
 msgid "law"
-msgstr ""
+msgstr "droit"
 
 msgid "law's"
-msgstr ""
+msgstr "de la Loi"
 
 msgid "lawn"
-msgstr ""
+msgstr "pelouse"
 
 msgid "laws"
-msgstr ""
+msgstr "lois"
 
 msgid "lawyer"
-msgstr ""
+msgstr "avocat"
 
 msgid "lawyer's"
-msgstr ""
+msgstr "avocat"
 
 msgid "lawyers"
-msgstr ""
+msgstr "avocats"
 
 msgid "lay"
-msgstr ""
+msgstr "Lay"
 
 msgid "layer"
-msgstr ""
+msgstr "couche"
 
 msgid "layer's"
-msgstr ""
+msgstr "couche"
 
 msgid "layers"
-msgstr ""
+msgstr "couches"
 
 msgid "laying"
-msgstr ""
+msgstr "portant"
 
 msgid "layout"
-msgstr ""
+msgstr "mise en page"
 
 msgid "lays"
-msgstr ""
+msgstr "fixe"
 
 msgid "laziness"
-msgstr ""
+msgstr "paresse"
 
 msgid "lazy"
-msgstr ""
+msgstr "paresseux"
 
 msgid "leach"
-msgstr ""
+msgstr "Leach"
 
 msgid "lead"
-msgstr ""
+msgstr "plomb"
 
 msgid "lead's"
-msgstr ""
+msgstr "de plomb"
 
 msgid "leaded"
-msgstr ""
+msgstr "au plomb"
 
 msgid "leader"
-msgstr ""
+msgstr "chef de file"
 
 msgid "leader's"
-msgstr ""
+msgstr "leader"
 
 msgid "leaders"
-msgstr ""
+msgstr "dirigeants"
 
 msgid "leadership"
-msgstr ""
+msgstr "leadership"
 
 msgid "leading"
-msgstr ""
+msgstr "menant"
 
 msgid "leads"
-msgstr ""
+msgstr "conduit"
 
 msgid "leaf"
-msgstr ""
+msgstr "feuille"
 
 msgid "leaf's"
-msgstr ""
+msgstr "Leaf"
 
 msgid "leaflet"
-msgstr ""
+msgstr "dépliant"
 
 msgid "leaflet's"
-msgstr ""
+msgstr "de la brochure"
 
 msgid "leaflets"
-msgstr ""
+msgstr "folioles"
 
 msgid "league"
-msgstr ""
+msgstr "Ligue"
 
 msgid "leak"
-msgstr ""
+msgstr "fuite"
 
 msgid "lean"
-msgstr ""
+msgstr "maigre"
 
 msgid "leaned"
-msgstr ""
+msgstr "se pencha"
 
 msgid "leaning"
-msgstr ""
+msgstr "se penchant"
 
 msgid "leans"
-msgstr ""
+msgstr "se penche"
 
 msgid "leap"
-msgstr ""
+msgstr "saut"
 
 msgid "learn"
-msgstr ""
+msgstr "apprendre"
 
 msgid "learned"
-msgstr ""
+msgstr "appris"
 
 msgid "learning"
-msgstr ""
+msgstr "apprentissage"
 
 msgid "learns"
-msgstr ""
+msgstr "apprend"
 
 msgid "least"
-msgstr ""
+msgstr "moins"
 
 msgid "leather"
-msgstr ""
+msgstr "cuir"
 
 msgid "leave"
-msgstr ""
+msgstr "congé"
 
 msgid "leave's"
-msgstr ""
+msgstr "de congé"
 
 msgid "leaved"
-msgstr ""
+msgstr "feuilles"
 
 msgid "leaves"
-msgstr ""
+msgstr "feuilles"
 
 msgid "leaving"
-msgstr ""
+msgstr "laissant"
 
 msgid "lecture"
-msgstr ""
+msgstr "Conférence"
 
 msgid "lecture's"
-msgstr ""
+msgstr "de la Conférence"
 
 msgid "lectured"
-msgstr ""
+msgstr "a donné des conférences"
 
 msgid "lecturer"
-msgstr ""
+msgstr "maître de conférences"
 
 msgid "lecturer's"
-msgstr ""
+msgstr "de maître de conférences"
 
 msgid "lecturers"
-msgstr ""
+msgstr "chargés de cours"
 
 msgid "lectures"
-msgstr ""
+msgstr "Conférences"
 
 msgid "lecturing"
-msgstr ""
+msgstr "cours magistraux"
 
 msgid "led"
-msgstr ""
+msgstr "conduit"
 
 msgid "left"
-msgstr ""
+msgstr "gauche"
 
 msgid "leg"
-msgstr ""
+msgstr "jambe"
 
 msgid "leg's"
-msgstr ""
+msgstr "de la jambe"
 
 msgid "legal"
-msgstr ""
+msgstr "juridique"
 
 msgid "legally"
-msgstr ""
+msgstr "légalement"
 
 msgid "legend"
-msgstr ""
+msgstr "légende"
 
 msgid "legendary"
-msgstr ""
+msgstr "légendaire"
 
 msgid "legible"
-msgstr ""
+msgstr "lisible"
 
 msgid "legislation"
-msgstr ""
+msgstr "législation"
 
 msgid "legitimate"
-msgstr ""
+msgstr "légitimes"
 
 msgid "legitimately"
-msgstr ""
+msgstr "légitimement"
 
 msgid "legs"
-msgstr ""
+msgstr "jambes"
 
 msgid "leisure"
-msgstr ""
+msgstr "Loisirs"
 
 msgid "lemon"
-msgstr ""
+msgstr "citron"
 
 msgid "lend"
-msgstr ""
+msgstr "prêter"
 
 msgid "lending"
-msgstr ""
+msgstr "prêt"
 
 msgid "lends"
-msgstr ""
+msgstr "prête"
 
 msgid "length"
-msgstr ""
+msgstr "longueur"
 
 msgid "length's"
-msgstr ""
+msgstr "de longueur"
 
 msgid "lengths"
-msgstr ""
+msgstr "longueurs"
 
 msgid "lengthy"
-msgstr ""
+msgstr "longue"
 
 msgid "lenient"
-msgstr ""
+msgstr "clémente"
 
 msgid "lens"
-msgstr ""
+msgstr "lentille"
 
 msgid "lens's"
-msgstr ""
+msgstr "de lentille"
 
 msgid "lenses"
-msgstr ""
+msgstr "lentilles"
 
 msgid "lent"
-msgstr ""
+msgstr "prêté"
 
 msgid "lesbian"
-msgstr ""
+msgstr "lesbienne"
 
 msgid "less"
-msgstr ""
+msgstr "moins"
 
 msgid "less's"
-msgstr ""
+msgstr "de moins"
 
 msgid "lesser"
-msgstr ""
+msgstr "moindre"
 
 msgid "lesson"
-msgstr ""
+msgstr "leçon"
 
 msgid "lesson's"
-msgstr ""
+msgstr "de la leçon"
 
 msgid "lessons"
-msgstr ""
+msgstr "leçons"
 
 msgid "lest"
-msgstr ""
+msgstr "peur que"
 
 msgid "let"
-msgstr ""
+msgstr "Laissez"
 
 msgid "let's"
-msgstr ""
+msgstr "Nous allons"
 
 msgid "lethal"
-msgstr ""
+msgstr "létale"
 
 msgid "lets"
-msgstr ""
+msgstr "permet de"
 
 msgid "letter"
-msgstr ""
+msgstr "Lettre"
 
 msgid "letter's"
-msgstr ""
+msgstr "de la lettre"
 
 msgid "letters"
-msgstr ""
+msgstr "lettres"
 
 msgid "letting"
-msgstr ""
+msgstr "Location"
 
 msgid "level"
-msgstr ""
+msgstr "niveau"
 
 msgid "level's"
-msgstr ""
+msgstr "de niveau"
 
 msgid "levels"
-msgstr ""
+msgstr "niveaux"
 
 msgid "liability"
-msgstr ""
+msgstr "responsabilité"
 
 msgid "liable"
-msgstr ""
+msgstr "responsable"
 
 msgid "liaison"
-msgstr ""
+msgstr "liaison"
 
 msgid "libel"
-msgstr ""
+msgstr "libelle"
 
 msgid "liberal"
-msgstr ""
+msgstr "libéral"
 
 msgid "liberties"
-msgstr ""
+msgstr "libertés"
 
 msgid "liberty"
-msgstr ""
+msgstr "liberté"
 
 msgid "liberty's"
-msgstr ""
+msgstr "par Liberty"
 
 msgid "librarian"
-msgstr ""
+msgstr "bibliothécaire"
 
 msgid "libraries"
-msgstr ""
+msgstr "bibliothèques"
 
 msgid "library"
-msgstr ""
+msgstr "Bibliothèque"
 
 msgid "library's"
-msgstr ""
+msgstr "Bibliothèque"
 
 msgid "license"
-msgstr ""
+msgstr "licence"
 
 msgid "license's"
-msgstr ""
+msgstr "de licence"
 
 msgid "licensed"
-msgstr ""
+msgstr "une licence"
 
 msgid "licenses"
-msgstr ""
+msgstr "licenses"
 
 msgid "licensing"
-msgstr ""
+msgstr "attribution de licences"
 
 msgid "lid"
-msgstr ""
+msgstr "couvercle"
 
 msgid "lie"
-msgstr ""
+msgstr "mensonge"
 
 msgid "lie's"
-msgstr ""
+msgstr "du mensonge"
 
 msgid "lied"
-msgstr ""
+msgstr "menti"
 
 msgid "lies"
-msgstr ""
+msgstr "mensonges"
 
 msgid "life"
-msgstr ""
+msgstr "vie"
 
 msgid "life's"
-msgstr ""
+msgstr "de la vie"
 
 msgid "lifestyle"
-msgstr ""
+msgstr "mode de vie"
 
 msgid "lifetime"
-msgstr ""
+msgstr "durée de vie"
 
 msgid "lift"
-msgstr ""
+msgstr "ascenseur"
 
 msgid "lift's"
-msgstr ""
+msgstr "de l'ascenseur"
 
 msgid "lifted"
-msgstr ""
+msgstr "levé"
 
 msgid "lifting"
-msgstr ""
+msgstr "levage"
 
 msgid "lifts"
-msgstr ""
+msgstr "ascenseurs"
 
 msgid "light"
-msgstr ""
+msgstr "lumière"
 
 msgid "light's"
-msgstr ""
+msgstr "de la lumière"
 
 msgid "lighted"
-msgstr ""
+msgstr "éclairé"
 
 msgid "lighter"
-msgstr ""
+msgstr "briquet"
 
 msgid "lightest"
-msgstr ""
+msgstr "plus léger"
 
 msgid "lighting"
-msgstr ""
+msgstr "éclairage"
 
 msgid "lightly"
-msgstr ""
+msgstr "légèrement"
 
 msgid "lightning"
-msgstr ""
+msgstr "foudre"
 
 msgid "lightninged"
-msgstr ""
+msgstr "lightninged"
 
 msgid "lightnings"
-msgstr ""
+msgstr "éclairs"
 
 msgid "lights"
-msgstr ""
+msgstr "lumières"
 
 msgid "like"
-msgstr ""
+msgstr "comme"
 
 msgid "like's"
-msgstr ""
+msgstr "de semblables"
 
 msgid "liked"
-msgstr ""
+msgstr "aimé"
 
 msgid "likelihood"
-msgstr ""
+msgstr "probabilité"
 
 msgid "likely"
-msgstr ""
+msgstr "probable"
 
 msgid "likes"
-msgstr ""
+msgstr "aime"
 
 msgid "likewise"
-msgstr ""
+msgstr "de même"
 
 msgid "liking"
-msgstr ""
+msgstr "goût"
 
 msgid "limb"
-msgstr ""
+msgstr "Limb"
 
 msgid "limb's"
-msgstr ""
+msgstr "de la branche"
 
 msgid "limbs"
-msgstr ""
+msgstr "membres"
 
 msgid "limit"
-msgstr ""
+msgstr "limite"
 
 msgid "limit's"
-msgstr ""
+msgstr "de limite"
 
 msgid "limitation"
-msgstr ""
+msgstr "limitation"
 
 msgid "limitation's"
-msgstr ""
+msgstr "de limitation"
 
 msgid "limitations"
-msgstr ""
+msgstr "limites"
 
 msgid "limited"
-msgstr ""
+msgstr "limitée"
 
 msgid "limiting"
-msgstr ""
+msgstr "limitant"
 
 msgid "limits"
-msgstr ""
+msgstr "limites"
 
 msgid "line"
-msgstr ""
+msgstr "ligne"
 
 msgid "line's"
-msgstr ""
+msgstr "de ligne"
 
 msgid "linear"
-msgstr ""
+msgstr "linéaire"
 
 msgid "lined"
-msgstr ""
+msgstr "bordée"
 
 msgid "lines"
-msgstr ""
+msgstr "lignes"
 
 msgid "linguistic"
-msgstr ""
+msgstr "linguistique"
 
 msgid "lining"
-msgstr ""
+msgstr "doublure"
 
 msgid "link"
-msgstr ""
+msgstr "lien"
 
 msgid "link's"
-msgstr ""
+msgstr "-lien"
 
 msgid "linkage"
-msgstr ""
+msgstr "linkage"
 
 msgid "linked"
-msgstr ""
+msgstr "lié"
 
 msgid "linking"
-msgstr ""
+msgstr "reliant"
 
 msgid "links"
-msgstr ""
+msgstr "Liens"
 
 msgid "lion"
-msgstr ""
+msgstr "Lion"
 
 msgid "lip"
-msgstr ""
+msgstr "pour les lèvres"
 
 msgid "lip's"
-msgstr ""
+msgstr "de lèvre"
 
 msgid "lips"
-msgstr ""
+msgstr "lèvres"
 
 msgid "liquid"
-msgstr ""
+msgstr "liquide"
 
 msgid "liquor"
-msgstr ""
+msgstr "liqueur"
 
 msgid "lisp"
-msgstr ""
+msgstr "Lisp"
 
 msgid "list"
-msgstr ""
+msgstr "liste"
 
 msgid "list's"
-msgstr ""
+msgstr "de la liste"
 
 msgid "listed"
-msgstr ""
+msgstr "répertoriés"
 
 msgid "listen"
-msgstr ""
+msgstr "Ecoute"
 
 msgid "listen's"
-msgstr ""
+msgstr "de l'Ecoute"
 
 msgid "listened"
-msgstr ""
+msgstr "écouté"
 
 msgid "listener"
-msgstr ""
+msgstr "écouteur"
 
 msgid "listening"
-msgstr ""
+msgstr "à l'écoute"
 
 msgid "listens"
-msgstr ""
+msgstr "Ecoutes"
 
 msgid "listing"
-msgstr ""
+msgstr "inscription"
 
 msgid "listing's"
-msgstr ""
+msgstr "de la liste"
 
 msgid "listings"
-msgstr ""
+msgstr "annonces"
 
 msgid "lists"
-msgstr ""
+msgstr "listes"
 
 msgid "lit"
-msgstr ""
+msgstr "allumé"
 
 msgid "liter"
-msgstr ""
+msgstr "litre"
 
 msgid "literal"
-msgstr ""
+msgstr "littéral"
 
 msgid "literally"
-msgstr ""
+msgstr "littéralement"
 
 msgid "literary"
-msgstr ""
+msgstr "littéraire"
 
 msgid "literate"
-msgstr ""
+msgstr "alphabétisés"
 
 msgid "literature"
-msgstr ""
+msgstr "littérature"
 
 msgid "litter"
-msgstr ""
+msgstr "litière"
 
 msgid "little"
-msgstr ""
+msgstr "Little"
 
 msgid "live"
-msgstr ""
+msgstr "Live"
 
 msgid "lived"
-msgstr ""
+msgstr "vécu"
 
 msgid "lively"
-msgstr ""
+msgstr "animé"
 
 msgid "liver"
-msgstr ""
+msgstr "foie"
 
 msgid "lives"
-msgstr ""
+msgstr "vit"
 
 msgid "livest"
-msgstr ""
+msgstr "Livest"
 
 msgid "living"
-msgstr ""
+msgstr "vivant"
 
 msgid "load"
-msgstr ""
+msgstr "charge"
 
 msgid "load's"
-msgstr ""
+msgstr "de charge"
 
 msgid "loaded"
-msgstr ""
+msgstr "chargé"
 
 msgid "loader"
-msgstr ""
+msgstr "chargeur"
 
 msgid "loading"
-msgstr ""
+msgstr "chargement"
 
 msgid "loads"
-msgstr ""
+msgstr "charges"
 
 msgid "loan"
-msgstr ""
+msgstr "prêt"
 
 msgid "loan's"
-msgstr ""
+msgstr "de prêt"
 
 msgid "loans"
-msgstr ""
+msgstr "prêts"
 
 msgid "lobby"
-msgstr ""
+msgstr "Hall d'entrée"
 
 msgid "local"
-msgstr ""
+msgstr "local"
 
 msgid "local's"
-msgstr ""
+msgstr "section locale"
 
 msgid "locally"
-msgstr ""
+msgstr "localement"
 
 msgid "locals"
-msgstr ""
+msgstr "gens du pays"
 
 msgid "locate"
-msgstr ""
+msgstr "localiser"
 
 msgid "located"
-msgstr ""
+msgstr "situé"
 
 msgid "locates"
-msgstr ""
+msgstr "localise"
 
 msgid "locating"
-msgstr ""
+msgstr "localisation"
 
 msgid "location"
-msgstr ""
+msgstr "emplacement"
 
 msgid "location's"
-msgstr ""
+msgstr "coordonnées de l'emplacement"
 
 msgid "locations"
-msgstr ""
+msgstr "emplacements"
 
 msgid "lock"
-msgstr ""
+msgstr "serrure"
 
 msgid "lock's"
-msgstr ""
+msgstr "Lock"
 
 msgid "locked"
-msgstr ""
+msgstr "verrouillé"
 
 msgid "locking"
-msgstr ""
+msgstr "verrouillage"
 
 msgid "locks"
-msgstr ""
+msgstr "serrures"
 
 msgid "lodge"
-msgstr ""
+msgstr "Lodge"
 
 msgid "log"
-msgstr ""
+msgstr "Journal"
 
 msgid "log's"
-msgstr ""
+msgstr "du journal"
 
 msgid "logged"
-msgstr ""
+msgstr "connecté"
 
 msgid "logging"
-msgstr ""
+msgstr "exploitation forestière"
 
 msgid "logic"
-msgstr ""
+msgstr "logique"
 
 msgid "logical"
-msgstr ""
+msgstr "logique"
 
 msgid "logically"
-msgstr ""
+msgstr "logiquement"
 
 msgid "logo"
-msgstr ""
+msgstr "logo"
 
 msgid "logs"
-msgstr ""
+msgstr "journaux"
 
 msgid "lonely"
-msgstr ""
+msgstr "solitaire"
 
 msgid "long"
-msgstr ""
+msgstr "long"
 
 msgid "longer"
-msgstr ""
+msgstr "plus longue"
 
 msgid "longest"
-msgstr ""
+msgstr "plus longue"
 
 msgid "look"
-msgstr ""
+msgstr "coup d'oeil"
 
 msgid "look's"
-msgstr ""
+msgstr "de l'oeil"
 
 msgid "looked"
-msgstr ""
+msgstr "regardé"
 
 msgid "looking"
-msgstr ""
+msgstr "à la recherche"
 
 msgid "looks"
-msgstr ""
+msgstr "On dirait"
 
 msgid "loop"
-msgstr ""
+msgstr "boucle"
 
 msgid "loop's"
-msgstr ""
+msgstr "de boucle"
 
 msgid "loophole"
-msgstr ""
+msgstr "échappatoire"
 
 msgid "loops"
-msgstr ""
+msgstr "boucles"
 
 msgid "loose"
-msgstr ""
+msgstr "vrac"
 
 msgid "loosely"
-msgstr ""
+msgstr "vaguement"
 
 msgid "lord"
-msgstr ""
+msgstr "Seigneur"
 
 msgid "lord's"
-msgstr ""
+msgstr "Seigneur"
 
 msgid "lords"
-msgstr ""
+msgstr "seigneurs"
 
 msgid "lorries"
-msgstr ""
+msgstr "camions"
 
 msgid "lorry"
-msgstr ""
+msgstr "camion"
 
 msgid "lorry's"
-msgstr ""
+msgstr "camion"
 
 msgid "lose"
-msgstr ""
+msgstr "perdre"
 
 msgid "loses"
-msgstr ""
+msgstr "perd"
 
 msgid "losing"
-msgstr ""
+msgstr "perdre"
 
 msgid "loss"
-msgstr ""
+msgstr "perte"
 
 msgid "loss's"
-msgstr ""
+msgstr "de perte"
 
 msgid "losses"
-msgstr ""
+msgstr "pertes"
 
 msgid "lost"
-msgstr ""
+msgstr "perdu"
 
 msgid "lot"
-msgstr ""
+msgstr "beaucoup"
 
 msgid "lot's"
-msgstr ""
+msgstr "lot"
 
 msgid "lots"
-msgstr ""
+msgstr "beaucoup"
 
 msgid "loud"
-msgstr ""
+msgstr "fort"
 
 msgid "louder"
-msgstr ""
+msgstr "plus fort"
 
 msgid "loudest"
-msgstr ""
+msgstr "plus fort"
 
 msgid "loudly"
-msgstr ""
+msgstr "haut et fort"
 
 msgid "lousy"
-msgstr ""
+msgstr "moche"
 
 msgid "love"
-msgstr ""
+msgstr "amour"
 
 msgid "love's"
-msgstr ""
+msgstr "de l'amour"
 
 msgid "loved"
-msgstr ""
+msgstr "aimé"
 
 msgid "lovely"
-msgstr ""
+msgstr "belle"
 
 msgid "lover"
-msgstr ""
+msgstr "amant"
 
 msgid "lover's"
-msgstr ""
+msgstr "les amoureux de la"
 
 msgid "lovers"
-msgstr ""
+msgstr "amoureux"
 
 msgid "loves"
-msgstr ""
+msgstr "aime"
 
 msgid "loving"
-msgstr ""
+msgstr "aimer"
 
 msgid "low"
-msgstr ""
+msgstr "faible"
 
 msgid "lower"
-msgstr ""
+msgstr "inférieur"
 
 msgid "lowered"
-msgstr ""
+msgstr "abaissé"
 
 msgid "lowering"
-msgstr ""
+msgstr "abaissement"
 
 msgid "lowers"
-msgstr ""
+msgstr "abaisse"
 
 msgid "lowest"
-msgstr ""
+msgstr "le plus bas"
 
 msgid "loyal"
-msgstr ""
+msgstr "fidèle"
 
 msgid "luck"
-msgstr ""
+msgstr "chance"
 
 msgid "luckily"
-msgstr ""
+msgstr "Heureusement"
 
 msgid "lucky"
-msgstr ""
+msgstr "chanceux"
 
 msgid "ludicrous"
-msgstr ""
+msgstr "ridicule"
 
 msgid "ludicrously"
-msgstr ""
+msgstr "ridiculement"
 
 msgid "luggage"
-msgstr ""
+msgstr "bagages"
 
 msgid "lump"
-msgstr ""
+msgstr "forfaitaire"
 
 msgid "lump's"
-msgstr ""
+msgstr "de forfaitaire"
 
 msgid "lumps"
-msgstr ""
+msgstr "grumeaux"
 
 msgid "lunatic"
-msgstr ""
+msgstr "Lunatic"
 
 msgid "lunch"
-msgstr ""
+msgstr "déjeuner"
 
 msgid "lunchtime"
-msgstr ""
+msgstr "midi"
 
 msgid "lung"
-msgstr ""
+msgstr "poumon"
 
 msgid "lung's"
-msgstr ""
+msgstr "du poumon"
 
 msgid "lungs"
-msgstr ""
+msgstr "poumons"
 
 msgid "lurk"
-msgstr ""
+msgstr "se cachent"
 
 msgid "lurked"
-msgstr ""
+msgstr "se cachait"
 
 msgid "lurking"
-msgstr ""
+msgstr "TAPI"
 
 msgid "lurks"
-msgstr ""
+msgstr "se cache"
 
 msgid "lust"
-msgstr ""
+msgstr "nu1t"
 
 msgid "luxury"
-msgstr ""
+msgstr "luxe"
 
 msgid "lying"
-msgstr ""
+msgstr "couché"
 
 msgid "lyric"
-msgstr ""
+msgstr "lyrique"
 
 msgid "lyric's"
-msgstr ""
+msgstr "de la poésie lyrique"
 
 msgid "lyrics"
-msgstr ""
+msgstr "paroles"
 
 msgid "machine"
-msgstr ""
+msgstr "machine"
 
 msgid "machine's"
-msgstr ""
+msgstr "machine"
 
 msgid "machinery"
-msgstr ""
+msgstr "machines"
 
 msgid "machines"
-msgstr ""
+msgstr "machines"
 
 msgid "mad"
-msgstr ""
+msgstr "Mad"
 
 msgid "made"
-msgstr ""
+msgstr "faites"
 
 msgid "madness"
-msgstr ""
+msgstr "folie"
 
 msgid "magazine"
-msgstr ""
+msgstr "magazine"
 
 msgid "magazine's"
-msgstr ""
+msgstr "magazine"
 
 msgid "magazines"
-msgstr ""
+msgstr "magazines"
 
 msgid "magic"
-msgstr ""
+msgstr "magie"
 
 msgid "magical"
-msgstr ""
+msgstr "magique"
 
 msgid "magnetic"
-msgstr ""
+msgstr "magnétique"
 
 msgid "magnificent"
-msgstr ""
+msgstr "magnifique"
 
 msgid "magnitude"
-msgstr ""
+msgstr "grandeur"
 
 msgid "mail"
-msgstr ""
+msgstr "courrier"
 
 msgid "mailbox"
-msgstr ""
+msgstr "boîte aux lettres"
 
 msgid "mailed"
-msgstr ""
+msgstr "envoyé par la poste"
 
 msgid "mailing"
-msgstr ""
+msgstr "postale"
 
 msgid "mails"
-msgstr ""
+msgstr "mails"
 
 msgid "main"
-msgstr ""
+msgstr "principal"
 
 msgid "main's"
-msgstr ""
+msgstr "de la main"
 
 msgid "mainframe"
-msgstr ""
+msgstr "mainframe"
 
 msgid "mainframe's"
-msgstr ""
+msgstr "du mainframe"
 
 msgid "mainframes"
-msgstr ""
+msgstr "mainframes"
 
 msgid "mainly"
-msgstr ""
+msgstr "principalement"
 
 msgid "mains"
-msgstr ""
+msgstr "secteur"
 
 msgid "mainstream"
-msgstr ""
+msgstr "grand public"
 
 msgid "maintain"
-msgstr ""
+msgstr "maintenir"
 
 msgid "maintained"
-msgstr ""
+msgstr "maintenu"
 
 msgid "maintaining"
-msgstr ""
+msgstr "maintien"
 
 msgid "maintains"
-msgstr ""
+msgstr "maintient"
 
 msgid "maintenance"
-msgstr ""
+msgstr "entretien"
 
 msgid "maize"
-msgstr ""
+msgstr "maïs"
 
 msgid "major"
-msgstr ""
+msgstr "principaux"
 
 msgid "majority"
-msgstr ""
+msgstr "majorité"
 
 msgid "make"
-msgstr ""
+msgstr "faire"
 
 msgid "make's"
-msgstr ""
+msgstr "de marque"
 
 msgid "maker"
-msgstr ""
+msgstr "machine à"
 
 msgid "maker's"
-msgstr ""
+msgstr "fabricant"
 
 msgid "makers"
-msgstr ""
+msgstr "à thé"
 
 msgid "makes"
-msgstr ""
+msgstr "rend"
 
 msgid "making"
-msgstr ""
+msgstr "faisant"
 
 msgid "male"
-msgstr ""
+msgstr "mâle"
 
 msgid "male's"
-msgstr ""
+msgstr "mâle"
 
 msgid "males"
-msgstr ""
+msgstr "mâles"
 
 msgid "malfunction"
-msgstr ""
+msgstr "mauvais fonctionnement"
 
 msgid "malicious"
-msgstr ""
+msgstr "malveillants"
 
 msgid "man"
-msgstr ""
+msgstr "homme"
 
 msgid "man's"
 msgstr ""
