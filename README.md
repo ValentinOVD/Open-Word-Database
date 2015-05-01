@@ -17,6 +17,3 @@ A project for creating a big dictionnary which contains all languages !
   Example (where computer is the word to translate) :
   - ./translation.sh fr computer
   - The result is ordinateur (the french word of computer).
-  
-You can also contact the bot for add a english word.
-- On Freenode : /msg valbot .addowd replacewithyourword
