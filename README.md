@@ -14,11 +14,11 @@ A project for creating a big dictionnary which contains all languages !
 # How to test ?
   You can test Open Word Database by using the translation script and the fr.po located in this branch (The ja.po, fr.po, mt.po, de.po and ru.po located in the botupload branch should also worked).  
 
-  Example (where computer is the word to translate) :
+  Example :
   - ./translation-en-to-x.sh fr-en computer
   - The result is ordinateur (the french word of computer).  
- 
-  Example (where ordintauer is the word to translate) :
+
+
   - ./translation-x-to-en.sh en-fr ordinateur
   - The result is computer.
 
