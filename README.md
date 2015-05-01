@@ -17,7 +17,8 @@ A project for creating a big dictionnary which contains all languages !
   Example (where computer is the word to translate) :
   - ./translation-en-to-x.sh fr-en computer
   - The result is ordinateur (the french word of computer).  
-
+ 
+  Example (where ordintauer is the word to translate) :
   - ./translation-x-to-en.sh en-fr ordinateur
   - The result is computer.
 
