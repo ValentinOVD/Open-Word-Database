@@ -15,5 +15,9 @@ A project for creating a big dictionnary which contains all languages !
   You can test Open Word Database by using the translation script and the fr.po located in this branch (The ja.po, fr.po, mt.po, de.po and ru.po located in the botupload branch should also worked).  
 
   Example (where computer is the word to translate) :
-  - ./translation.sh fr computer
-  - The result is ordinateur (the french word of computer).
+  - ./translation-en-to-x.sh fr-en computer
+  - The result is ordinateur (the french word of computer).  
+
+  - ./translation-x-to-en.sh en-fr ordinateur
+  - The result is computer.
+
