@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-02 11:50+0000\n"
+"PO-Revision-Date: 2015-05-02 12:37+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/database/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgid "American"
 msgstr "Américain"
 
 msgid "Brown"
-msgstr "Brown"
+msgstr "Brun"
 
 msgid "Christian"
 msgstr "Chrétien"
@@ -46,16 +46,16 @@ msgid "God"
 msgstr "Dieu"
 
 msgid "I"
-msgstr "J'ai"
+msgstr "Je"
 
 msgid "John"
 msgstr "John"
 
 msgid "Mister"
-msgstr "Mister"
+msgstr "Monsieur"
 
 msgid "Mr"
-msgstr "Monsieur"
+msgstr "M"
 
 msgid "Mrs"
 msgstr "Mme"
@@ -88,7 +88,7 @@ msgid "abbreviates"
 msgstr "abrège"
 
 msgid "abbreviating"
-msgstr "abréger"
+msgstr "abrégeant"
 
 msgid "abbreviation"
 msgstr "abréviation"
@@ -97,10 +97,10 @@ msgid "abbreviation's"
 msgstr "d'abréviation"
 
 msgid "abbreviations"
-msgstr "Abréviations"
+msgstr "abréviations"
 
 msgid "abide"
-msgstr "se conformer aux"
+msgstr "supporter"
 
 msgid "abilities"
 msgstr "capacités"
@@ -124,7 +124,7 @@ msgid "abolish"
 msgstr "abolir"
 
 msgid "abolished"
-msgstr "Abolie"
+msgstr "abolie"
 
 msgid "abolishes"
 msgstr "abolit"
@@ -136,10 +136,10 @@ msgid "abolition"
 msgstr "abolition"
 
 msgid "abort"
-msgstr "abandonner."
+msgstr "abandonner"
 
 msgid "aborted"
-msgstr "abandonnée"
+msgstr "abandonné"
 
 msgid "aborting"
 msgstr "abandon"
@@ -151,7 +151,7 @@ msgid "aborts"
 msgstr "abandonne"
 
 msgid "about"
-msgstr "sur"
+msgstr "à propos"
 
 msgid "above"
 msgstr "ci-dessus"
@@ -184,7 +184,7 @@ msgid "absorbs"
 msgstr "absorbe"
 
 msgid "abstract"
-msgstr "résumé"
+msgstr "abstrait"
 
 msgid "abstraction"
 msgstr "abstraction"
@@ -202,7 +202,7 @@ msgid "abuses"
 msgstr "abus"
 
 msgid "abusing"
-msgstr "abuser"
+msgstr "abusant"
 
 msgid "abusive"
 msgstr "abusif"
@@ -229,13 +229,13 @@ msgid "accent's"
 msgstr "de l'accent"
 
 msgid "accents"
-msgstr "Accents"
+msgstr "accents"
 
 msgid "accept"
 msgstr "accepter"
 
 msgid "acceptable"
-msgstr "Acceptable"
+msgstr "acceptable"
 
 msgid "acceptance"
 msgstr "acceptation"
@@ -259,13 +259,13 @@ msgid "accessed"
 msgstr "consulté"
 
 msgid "accesses"
-msgstr "accède à"
+msgstr "accès"
 
 msgid "accessible"
 msgstr "accessible"
 
 msgid "accessing"
-msgstr "pour accéder aux"
+msgstr "accédant"
 
 msgid "accident"
 msgstr "accident"
@@ -286,7 +286,7 @@ msgid "accommodate"
 msgstr "accueillir"
 
 msgid "accommodation"
-msgstr "Hébergement"
+msgstr "hébergement"
 
 msgid "accompanied"
 msgstr "accompagné"
@@ -355,7 +355,7 @@ msgid "accounts"
 msgstr "comptes"
 
 msgid "accumulate"
-msgstr "s'accumulent"
+msgstr "accumuler"
 
 msgid "accumulated"
 msgstr "accumulé"
@@ -409,7 +409,7 @@ msgid "accustoms"
 msgstr "accoutume"
 
 msgid "ace"
-msgstr "ACE"
+msgstr "as"
 
 msgid "achieve"
 msgstr "atteindre"
@@ -436,7 +436,7 @@ msgid "acid"
 msgstr "acide"
 
 msgid "acknowledge"
-msgstr "reconnaissez"
+msgstr "reconnaître"
 
 msgid "acknowledged"
 msgstr "a reconnu"
@@ -448,7 +448,7 @@ msgid "acknowledging"
 msgstr "reconnaissant"
 
 msgid "acorn"
-msgstr "Acorn"
+msgstr "gland"
 
 msgid "acoustic"
 msgstr "acoustique"
@@ -484,7 +484,7 @@ msgid "across"
 msgstr "dans l'ensemble"
 
 msgid "act"
-msgstr "Loi sur les"
+msgstr "Loi"
 
 msgid "act's"
 msgstr "de la Loi"
@@ -511,13 +511,13 @@ msgid "activated"
 msgstr "activé"
 
 msgid "activates"
-msgstr "Active"
+msgstr "active"
 
 msgid "activating"
 msgstr "activation"
 
 msgid "active"
-msgstr "Active"
+msgstr "active"
 
 msgid "actively"
 msgstr "activement"
@@ -544,13 +544,13 @@ msgid "acts"
 msgstr "actes"
 
 msgid "actual"
-msgstr "réelles"
+msgstr "réel"
 
 msgid "actually"
 msgstr "en fait"
 
 msgid "acute"
-msgstr "aiguë"
+msgstr "aigu"
 
 msgid "adapt"
 msgstr "adapter"
@@ -571,13 +571,13 @@ msgid "adapts"
 msgstr "s'adapte"
 
 msgid "add"
-msgstr "Ajouter"
+msgstr "ajouter"
 
 msgid "added"
 msgstr "ajouté"
 
 msgid "addict"
-msgstr "ADDICT"
+msgstr "addict"
 
 msgid "addicted"
 msgstr "accro"
@@ -586,28 +586,28 @@ msgid "addicting"
 msgstr "Addicting"
 
 msgid "addictive"
-msgstr "une dépendance"
+msgstr "dépendant"
 
 msgid "addicts"
-msgstr "toxicomanes"
+msgstr "accros"
 
 msgid "adding"
-msgstr "Ajouter"
+msgstr "ajoutant"
 
 msgid "addition"
-msgstr "ajout"
+msgstr "addition"
 
 msgid "addition's"
-msgstr "d'ajout"
+msgstr "d'addition"
 
 msgid "additional"
 msgstr "supplémentaires"
 
 msgid "additionally"
-msgstr "en outre"
+msgstr "en plus"
 
 msgid "additions"
-msgstr "ajouts"
+msgstr "additions"
 
 msgid "address"
 msgstr "adresse"
@@ -622,10 +622,10 @@ msgid "addresses"
 msgstr "adresses"
 
 msgid "addressing"
-msgstr "adressage"
+msgstr "adressant"
 
 msgid "adds"
-msgstr "Ajoute"
+msgstr "ajoute"
 
 msgid "adequate"
 msgstr "adéquate"
@@ -646,7 +646,7 @@ msgid "adhering"
 msgstr "adhérant"
 
 msgid "adjacent"
-msgstr "adjacentes"
+msgstr "adjacent"
 
 msgid "adjective"
 msgstr "adjectif"
@@ -658,7 +658,7 @@ msgid "adjusted"
 msgstr "ajusté"
 
 msgid "adjusting"
-msgstr "réglage"
+msgstr "réglant"
 
 msgid "adjustment"
 msgstr "ajustement"
@@ -679,7 +679,7 @@ msgid "administered"
 msgstr "administré"
 
 msgid "administering"
-msgstr "administration"
+msgstr "administrant"
 
 msgid "administers"
 msgstr "administre"
@@ -736,31 +736,31 @@ msgid "adult"
 msgstr "adulte"
 
 msgid "adult's"
-msgstr "adulte"
+msgstr "d'adulte"
 
 msgid "adults"
 msgstr "adultes"
 
 msgid "advance"
-msgstr "Advance"
+msgstr "progrès"
 
 msgid "advance's"
-msgstr "Advance"
+msgstr "du progrès"
 
 msgid "advanced"
-msgstr "Advanced"
+msgstr "progressé"
 
 msgid "advances"
-msgstr "avances"
+msgstr "progresse"
 
 msgid "advancing"
-msgstr "faire progresser"
+msgstr "progressant"
 
 msgid "advantage"
 msgstr "avantage"
 
 msgid "advantage's"
-msgstr "Advantage"
+msgstr "d'advantage"
 
 msgid "advantageous"
 msgstr "avantageux"
@@ -769,7 +769,7 @@ msgid "advantages"
 msgstr "avantages"
 
 msgid "advent"
-msgstr "Avent"
+msgstr "avènement"
 
 msgid "adventure"
 msgstr "aventure"
@@ -784,7 +784,7 @@ msgid "adventurous"
 msgstr "aventureux"
 
 msgid "adverse"
-msgstr "effets indésirables"
+msgstr "négatif"
 
 msgid "adversely"
 msgstr "défavorablement"
@@ -808,7 +808,7 @@ msgid "advertisement's"
 msgstr "de la publicité"
 
 msgid "advertisements"
-msgstr "annonces"
+msgstr "publicités"
 
 msgid "advertises"
 msgstr "fait de la publicité"
@@ -853,7 +853,7 @@ msgid "advocate"
 msgstr "avocat"
 
 msgid "advocate's"
-msgstr "-avocat"
+msgstr "d'avocat"
 
 msgid "advocated"
 msgstr "préconisé"
@@ -877,19 +877,19 @@ msgid "affair"
 msgstr "affaire"
 
 msgid "affair's"
-msgstr "affaires du Nord canadien"
+msgstr "d'affaire"
 
 msgid "affairs"
 msgstr "affaires"
 
 msgid "affect"
-msgstr "affect"
+msgstr "affecte"
 
 msgid "affect's"
-msgstr "de l'affect"
+msgstr "de l'affectation"
 
 msgid "affected"
-msgstr "touchés"
+msgstr "affecté"
 
 msgid "affecting"
 msgstr "affectant"
@@ -943,10 +943,10 @@ msgid "aged"
 msgstr "âgés de"
 
 msgid "agency"
-msgstr "Agence"
+msgstr "agence"
 
 msgid "agenda"
-msgstr "ordre du jour"
+msgstr "agenda"
 
 msgid "agent"
 msgstr "agent"
@@ -964,7 +964,7 @@ msgid "aggressive"
 msgstr "agressif"
 
 msgid "aging"
-msgstr "vieillissement"
+msgstr "vieillissant"
 
 msgid "ago"
 msgstr "Il y a"
@@ -973,13 +973,13 @@ msgid "agony"
 msgstr "agonie"
 
 msgid "agree"
-msgstr "suis d'accord"
+msgstr "approuver"
 
 msgid "agreed"
 msgstr "convenu"
 
 msgid "agreeing"
-msgstr "acceptant"
+msgstr "approuvant"
 
 msgid "agreement"
 msgstr "accord"
@@ -1018,7 +1018,7 @@ msgid "aim"
 msgstr "objectif"
 
 msgid "aim's"
-msgstr "AIM"
+msgstr "d'objectif"
 
 msgid "aimed"
 msgstr "visant"
@@ -1039,10 +1039,10 @@ msgid "aircraft's"
 msgstr "avion"
 
 msgid "airport"
-msgstr "Aéroport"
+msgstr "aéroport"
 
 msgid "akin"
-msgstr "Attia"
+msgstr "proche"
 
 msgid "alarm"
 msgstr "alarme"
@@ -1057,25 +1057,25 @@ msgid "alarms"
 msgstr "alarmes"
 
 msgid "alas"
-msgstr "Hélas"
+msgstr "hélas"
 
 msgid "albeit"
-msgstr "Quoique"
+msgstr "quoique"
 
 msgid "album"
 msgstr "album"
 
 msgid "album's"
-msgstr "album"
+msgstr "d'album"
 
 msgid "albums"
-msgstr "Albums"
+msgstr "albums"
 
 msgid "alcohol"
 msgstr "alcool"
 
 msgid "alcoholic"
-msgstr "alcoolisées"
+msgstr "alcoolisé"
 
 msgid "alert"
 msgstr "alerte"
@@ -1099,19 +1099,19 @@ msgid "alias"
 msgstr "alias"
 
 msgid "alias's"
-msgstr "alias"
+msgstr "d'alias"
 
 msgid "aliases"
 msgstr "alias"
 
 msgid "alien"
-msgstr "Alien"
+msgstr "alien"
 
 msgid "alien's"
-msgstr "des Etrangers"
+msgstr "des aliens"
 
 msgid "aliens"
-msgstr "étrangers"
+msgstr "aliens"
 
 msgid "align"
 msgstr "aligner"
@@ -1120,7 +1120,7 @@ msgid "aligned"
 msgstr "aligné"
 
 msgid "aligning"
-msgstr "en alignant"
+msgstr "alignant"
 
 msgid "alignment"
 msgstr "alignement"
@@ -1135,7 +1135,7 @@ msgid "alive"
 msgstr "vivant"
 
 msgid "all"
-msgstr "tous les"
+msgstr "tout"
 
 msgid "allegation"
 msgstr "allégation"
@@ -1168,7 +1168,7 @@ msgid "alleviate"
 msgstr "soulager"
 
 msgid "alliance"
-msgstr "Alliance"
+msgstr "alliance"
 
 msgid "allies"
 msgstr "alliés"
@@ -1183,7 +1183,7 @@ msgid "allocates"
 msgstr "alloue"
 
 msgid "allocating"
-msgstr "allocation"
+msgstr "allouant"
 
 msgid "allocation"
 msgstr "allocation"
@@ -1213,7 +1213,7 @@ msgid "allowed"
 msgstr "permis"
 
 msgid "allowing"
-msgstr "ce qui permet"
+msgstr "permis"
 
 msgid "allows"
 msgstr "permet"
