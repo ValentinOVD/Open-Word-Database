@@ -12,7 +12,7 @@ A project for creating a big dictionnary which contains all languages !
   
   
 # How to test ?
-  You can test Open Word Database by using the translation script and the fr.po located in this branch (The ja.po, fr.po, mt.po, de.po and ru.po located in the botupload branch should also worked).  
+  You can test Open Word Database by using the translation script and the fr.po located in this branch (The POs located in the botupload branch should also worked).  
 
   Example :
   ./translation-en-to-x.sh en-fr computer
