@@ -1,5 +1,4 @@
-# Travis CI config for Limba
-# unattended full upgrade: sudo apt-get -o Dpkg::Options::="--force-confold" --force-yes -fuy dist-upgrade
+# Travis CI
 
 language: c
 
