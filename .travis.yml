@@ -13,9 +13,10 @@ before_script:
   - env | sort
   - uname -a
   - chmod +x sweetbuild.sh
+  - chmod +x sweetupload.sh
 
 script:
   - "./sweetbuild.sh"
   
 after_success:
-  - sbt publish
+  - "./sweetupload.sh"
