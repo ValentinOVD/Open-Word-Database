@@ -21,5 +21,5 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to binary-master"
   git push -fq origin binary-master > /dev/null
 
-  echo -e "Done magic with coverage\n"
+  echo -e "Done magic\n"
 fi
