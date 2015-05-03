@@ -28,4 +28,4 @@ You can also use gettext for translating word.
 		
 Install en_fr.po using sweetinstall.sh  
 		
-And after you can use gettext : echo "\`gettext en-fr computer\`
+And after you can use gettext : echo "\`gettext en-fr computer\`"
