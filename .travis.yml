@@ -20,3 +20,7 @@ script:
   
 after_success:
   - "./sweetupload.sh"
+
+env:
+  global:
+    secure: XpR/LSlRxEKT4WPYtl3t8ESKeNdzaQMEhrYBO1keDJaWI19DhTayd5bqX2E4R3+9CHKcb3oHqNuVMgu4pogr1wcfTDTB3KaAXIFVw53BblwQnJ19kq34FxMPqhKku8Il+XaYnp7iRpoKfhdrgEags8MIXd1mVFKYIWPc/Fq9aJ0=
