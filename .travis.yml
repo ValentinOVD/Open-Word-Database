@@ -13,6 +13,7 @@ before_install:
 before_script:
   - env | sort
   - uname -a
+  - chmod +x sweetbuild.sh
 
 script:
   - "./sweetbuild.sh"
