@@ -26,20 +26,32 @@ You can checkout the po in the botupload branch : https://github.com/ValentinOVD
   
   
 # How to test ?
-  You can test Open Word Database by using the translation script and the fr.po located in this branch (The POs located in the botupload branch should also worked).  
+  You can test Open Word Database by using console.sh :
+./console.sh
 
-  Example :
-  ./translation-en-to-x.sh en-fr computer
-  		
-  The result is ordinateur (the french word of computer).  
-			
-		
-  ./translation-x-to-en.sh en-fr ordinateur
-  		
-  The result is computer.  
+po
+
+yes
+
+translate
+
+1
+
+fr
+
+hello
+
 		
 You can also use gettext for translating word.  
 		
-Install en_fr.po using sweetinstall.sh  
-		
+For that, install the mo files :
+
+./console.sh
+
+mo
+
+yes
+
+yes
+
 And after you can use gettext : echo "\`gettext en-fr computer\`"
