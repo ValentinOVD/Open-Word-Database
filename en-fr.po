@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-02 12:37+0000\n"
+"PO-Revision-Date: 2015-05-04 12:55+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/database/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgid "American"
 msgstr "Américain"
 
 msgid "Brown"
-msgstr "Brun"
+msgstr "Marron"
 
 msgid "Christian"
 msgstr "Chrétien"
@@ -1273,7 +1273,7 @@ msgid "altered"
 msgstr "modifié"
 
 msgid "altering"
-msgstr "modifier"
+msgstr "modifiant"
 
 msgid "alternate"
 msgstr "remplaçant"
@@ -1285,10 +1285,10 @@ msgid "alternative's"
 msgstr "alternatif"
 
 msgid "alternatively"
-msgstr "vous pouvez également"
+msgstr "alternativement"
 
 msgid "alternatives"
-msgstr "solutions de rechange"
+msgstr "alternatives"
 
 msgid "alters"
 msgstr "modifie"
@@ -1303,7 +1303,7 @@ msgid "always"
 msgstr "toujours"
 
 msgid "am"
-msgstr "AM"
+msgstr "suis"
 
 msgid "amateur"
 msgstr "amateur"
@@ -1324,13 +1324,13 @@ msgid "amazingly"
 msgstr "étonnamment"
 
 msgid "ambassador"
-msgstr "Ambassadeur"
+msgstr "ambassadeur"
 
 msgid "amber"
 msgstr "ambre"
 
 msgid "ambient"
-msgstr "ambiante"
+msgstr "ambiance"
 
 msgid "ambiguities"
 msgstr "ambiguïtés"
@@ -1357,7 +1357,7 @@ msgid "amending"
 msgstr "modifiant"
 
 msgid "amendment"
-msgstr "Amendement"
+msgstr "amendement"
 
 msgid "amends"
 msgstr "modifie"
@@ -1366,13 +1366,13 @@ msgid "among"
 msgstr "Parmi les"
 
 msgid "amount"
-msgstr "montant"
+msgstr "quantité"
 
 msgid "amount's"
-msgstr "du montant"
+msgstr "de la quantité"
 
 msgid "amounts"
-msgstr "montants"
+msgstr "quantités"
 
 msgid "amp"
 msgstr "amp"
@@ -1438,7 +1438,7 @@ msgid "analyzes"
 msgstr "analyse"
 
 msgid "analyzing"
-msgstr "analyse"
+msgstr "analysant"
 
 msgid "anarchy"
 msgstr "anarchie"
@@ -1474,7 +1474,7 @@ msgid "angel"
 msgstr "ange"
 
 msgid "angel's"
-msgstr "ange"
+msgstr "d'ange"
 
 msgid "angels"
 msgstr "anges"
@@ -1501,7 +1501,7 @@ msgid "animal"
 msgstr "animal"
 
 msgid "animal's"
-msgstr "animal"
+msgstr "de l'animal"
 
 msgid "animals"
 msgstr "animaux"
@@ -1537,10 +1537,10 @@ msgid "annoyance"
 msgstr "ennui"
 
 msgid "annoyed"
-msgstr "agacé"
+msgstr "ennuyé"
 
 msgid "annoying"
-msgstr "ennuyeux"
+msgstr "ennuyant"
 
 msgid "annoys"
 msgstr "agace"
@@ -1561,7 +1561,7 @@ msgid "anomaly's"
 msgstr "de l'anomalie"
 
 msgid "anonymous"
-msgstr "Anonyme"
+msgstr "anonyme"
 
 msgid "anorak"
 msgstr "anorak"
@@ -1585,7 +1585,7 @@ msgid "answered"
 msgstr "répondu"
 
 msgid "answering"
-msgstr "répondre à"
+msgstr "répondant"
 
 msgid "answers"
 msgstr "réponses"
@@ -1666,10 +1666,10 @@ msgid "apologizes"
 msgstr "s'excuse"
 
 msgid "apologizing"
-msgstr "s'excusant"
+msgstr "excusant"
 
 msgid "apology"
-msgstr "excuses"
+msgstr "excuse"
 
 msgid "apology's"
 msgstr "d'apologie"
@@ -1744,25 +1744,25 @@ msgid "appears"
 msgstr "s'affiche"
 
 msgid "append"
-msgstr "Ajouter"
+msgstr "ajouter"
 
 msgid "appended"
 msgstr "ajouté"
 
 msgid "appending"
-msgstr "en ajoutant"
+msgstr "ajoutant"
 
 msgid "appendix"
 msgstr "Annexe"
 
 msgid "appends"
-msgstr "Ajoute"
+msgstr "ajoute"
 
 msgid "applause"
-msgstr "applaudissements"
+msgstr "applaudissement"
 
 msgid "apple"
-msgstr "Apple"
+msgstr "pomme"
 
 msgid "applicable"
 msgstr "Il y a lieu"
@@ -1876,13 +1876,13 @@ msgid "approximate"
 msgstr "approximative"
 
 msgid "approximately"
-msgstr "environ"
+msgstr "approximativement"
 
 msgid "approximation"
 msgstr "rapprochement"
 
 msgid "apt"
-msgstr "apt"
+msgstr "dpkg"
 
 msgid "arbitrarily"
 msgstr "arbitrairement"
@@ -1909,22 +1909,22 @@ msgid "architecture"
 msgstr "architecture"
 
 msgid "archive"
-msgstr "Archive"
+msgstr "archive"
 
 msgid "archive's"
 msgstr "de l'archive"
 
 msgid "archived"
-msgstr "archivées"
+msgstr "archivés"
 
 msgid "archives"
-msgstr "Archives"
+msgstr "archives"
 
 msgid "archiving"
-msgstr "archivage"
+msgstr "archivant"
 
 msgid "are"
-msgstr "sont"
+msgstr "es/sont"
 
 msgid "area"
 msgstr "zone"
@@ -1936,7 +1936,7 @@ msgid "areas"
 msgstr "zones"
 
 msgid "aren't"
-msgstr "ne sont pas"
+msgstr "ne sont pas/n'es pas"
 
 msgid "arena"
 msgstr "Arena"
@@ -2029,7 +2029,7 @@ msgid "arranging"
 msgstr "Organisation"
 
 msgid "array"
-msgstr "Tableau"
+msgstr "tableau"
 
 msgid "array's"
 msgstr "du tableau"
@@ -2062,7 +2062,7 @@ msgid "arrives"
 msgstr "arrive"
 
 msgid "arriving"
-msgstr "en arrivant"
+msgstr "arrivant"
 
 msgid "arrogance"
 msgstr "arrogance"
@@ -2173,7 +2173,7 @@ msgid "aspects"
 msgstr "aspects"
 
 msgid "ass"
-msgstr "cul"
+msgstr "postérieur"
 
 msgid "assault"
 msgstr "assaut"
@@ -2191,7 +2191,7 @@ msgid "assembles"
 msgstr "assemble"
 
 msgid "assembling"
-msgstr "assemblage"
+msgstr "assemblant"
 
 msgid "assembly"
 msgstr "Assemblée"
@@ -2242,7 +2242,7 @@ msgid "assigned"
 msgstr "assignés"
 
 msgid "assigning"
-msgstr "attribution"
+msgstr "assignant"
 
 msgid "assignment"
 msgstr "affectation"
@@ -8608,13 +8608,13 @@ msgid "dashing"
 msgstr "fringant"
 
 msgid "data"
-msgstr "données"
+msgstr "donnée"
 
 msgid "database"
-msgstr "base de données"
+msgstr "base de donnée"
 
 msgid "database's"
-msgstr "base de données"
+msgstr "base de donnée"
 
 msgid "databases"
 msgstr "bases de données"
@@ -12226,7 +12226,7 @@ msgid "everything"
 msgstr "tout ce que"
 
 msgid "everywhere"
-msgstr "dans le monde"
+msgstr "partout ailleurs"
 
 msgid "evidence"
 msgstr "éléments de preuve"
@@ -21943,7 +21943,7 @@ msgid "nay"
 msgstr "Nay"
 
 msgid "near"
-msgstr "près de :"
+msgstr "près"
 
 msgid "nearby"
 msgstr "à proximité"
@@ -26017,7 +26017,7 @@ msgid "professor"
 msgstr "professeur"
 
 msgid "profile"
-msgstr "Profil"
+msgstr "profil"
 
 msgid "profile's"
 msgstr "de profil"
@@ -33925,7 +33925,7 @@ msgid "terminate"
 msgstr "résilier"
 
 msgid "terminated"
-msgstr "résilié"
+msgstr "terminé"
 
 msgid "terminates"
 msgstr "met fin à"
@@ -36946,7 +36946,7 @@ msgid "wetting"
 msgstr "mouillage"
 
 msgid "whale"
-msgstr "Baleine"
+msgstr "baleine"
 
 msgid "whale's"
 msgstr "de la baleine"
@@ -36955,10 +36955,10 @@ msgid "whales"
 msgstr "baleines"
 
 msgid "what"
-msgstr "ce qui"
+msgstr "quoi"
 
 msgid "whatever"
-msgstr "quelle que soit"
+msgstr "quoi que ce soit"
 
 msgid "whatsoever"
 msgstr "que ce soit"
@@ -36973,7 +36973,7 @@ msgid "wheels"
 msgstr "roues"
 
 msgid "when"
-msgstr "Quand"
+msgstr "quand"
 
 msgid "whence"
 msgstr "d'où"
@@ -37003,10 +37003,10 @@ msgid "which"
 msgstr "qui"
 
 msgid "whichever"
-msgstr "selon la"
+msgstr "quel"
 
 msgid "while"
-msgstr "tout en"
+msgstr "pendant que"
 
 msgid "whilst"
 msgstr "tout en"
@@ -37141,10 +37141,10 @@ msgid "window's"
 msgstr "de la fenêtre"
 
 msgid "windowing"
-msgstr "fenêtrage"
+msgstr "fenêtrant"
 
 msgid "windows"
-msgstr "Windows"
+msgstr "fenêtres (BSOD)"
 
 msgid "winds"
 msgstr "vents"
