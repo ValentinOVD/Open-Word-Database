@@ -6,6 +6,10 @@ wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/botscript.sh -
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-en-to-x.sh -O translation-en-to-x.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-x-to-en.sh -O translation-x-to-en.sh
 chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh
+clear
+echo "Welcome on the Open Word Database Console !"
+echo "You can translate into these language : ar, de, el, fr, it, ja ,mt, nl,ru"
+echo "Type the command translate :-)"
 while true
 do read -p ">" text
 if [ $text = "break" ]
@@ -13,7 +17,8 @@ then break
 fi
 if [ $text = "translate" ]
 then if [ $PO = "0" ]
-then echo "For this function, you need to have installed the po files. By using the po command"
+then echo "For this function, you need to have installed the po files"
+echo "Type po for install the po files"
 fi
 if [ $PO = "1" ]
 then read -p "What language ?" textd
