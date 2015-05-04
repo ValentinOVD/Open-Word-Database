@@ -54,4 +54,4 @@ yes
 
 yes
 
-And after you can use gettext : echo "\`gettext en-fr computer\`"
+And after you can use gettext : echo "\`gettext fr computer\`"
