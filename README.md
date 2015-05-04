@@ -5,16 +5,14 @@ A project for creating a big dictionnary which contains all languages !
     
 We have 666 reviewed words + 11896 auto-translated words in French !
 
-We have 12562 auto-translated words in German, Japanese, Maltese and Russian !
-
-We have 6643 auto-translated words in Greek !
-
-We have 2683 auto-translated words in Arabic !
-
-We have 2682 auto-translated words in Italian !
-
-We have 2679 auto-translated words in Dutch !    
-    
+We have 12562 auto-translated words in German, Greek, Japanese, Maltese and Russian !  
+  
+We have 2683 auto-translated words in Arabic !  
+  
+We have 2682 auto-translated words in Italian !  
+  
+We have 2679 auto-translated words in Dutch !     
+      
     
 You can checkout the po in the botupload branch : https://github.com/ValentinOVD/Open-Word-Database/tree/botupload
 
