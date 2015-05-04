@@ -1,6 +1,22 @@
 # [![Build Status](https://travis-ci.org/ValentinOVD/Open-Word-Database.svg?branch=botupload)](https://travis-ci.org/ValentinOVD/Open-Word-Database) Open-Word-Database [![Bountysource](https://www.bountysource.com/badge/team?team_id=76329&style=raised)](https://www.bountysource.com/teams/vovd?utm_source=vOVD&utm_medium=shield&utm_campaign=raised)
   
-A project for creating a big dictionnary which contains all languages !
+A project for creating a big dictionnary which contains all languages !    
+    
+    
+We have 666 reviewed words + 11896 auto-translated words in French !
+
+We have 12562 auto-translated words in German, Japanese, Maltese and Russian !
+
+We have 6643 auto-translated words in Greek !
+
+We have 2683 auto-translated words in Arabic !
+
+We have 2682 auto-translated words in Italian !
+
+We have 2679 auto-translated words in Dutch !    
+    
+    
+You can checkout the po in the botupload branch : https://github.com/ValentinOVD/Open-Word-Database/tree/botupload
 
 # How to help ?
 
