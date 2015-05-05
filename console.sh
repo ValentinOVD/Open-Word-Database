@@ -51,7 +51,7 @@ then
 read -p "Do you want to download the po files ? (yes/NO)" text
 if [ $text = "yes" ]
 then
-wget https://github.com/ValentinOVD/Open-Word-Database/archive/botupload.tar.gz
+wget https://github.com/ValentinOVD/Open-Word-Database-m2/archive/master.tar.gz
 tar -xvf botupload.tar.gz
 mkdir po
 mv Open-Word-Database-botupload/*.po po/
