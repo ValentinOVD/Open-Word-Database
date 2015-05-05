@@ -1,4 +1,4 @@
-if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
+if [ "$TRAVIS_PULL_REQUEST" == "false3" ]; then
   echo -e "Starting to update binary-master\n"
 
   #copy data we're interested in to other place
