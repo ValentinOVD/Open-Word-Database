@@ -2,18 +2,22 @@
 export PO=0
 clear
 echo -e "Welcome on the Open Word Database Console !\n"
+wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/console.sh -O console.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/botscript.sh -O botscript.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-en-to-x.sh -O translation-en-to-x.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-x-to-en.sh -O translation-x-to-en.sh
-chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh
+chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh console.sh
 clear
 echo "Welcome on the Open Word Database Console !"
-echo "You can translate into these language : ar, de, el, fr, it, ja ,mt, nl,ru"
+echo "You can translate into these language : ar, de, el, fr, it, ja ,mt, nl and ru"
 echo "Type the command translate :-)"
 while true
 do read -p ">" text
 if [ $text = "break" ]
 then break
+fi
+if [ $text = "force_po" ]
+then export PO=1
 fi
 if [ $text = "translate" ]
 then if [ $PO = "0" ]
@@ -34,7 +38,7 @@ fi
 fi
 fi
 if [ $text = "help" ]
-then echo -e "break\nbot\npo\nmo\ntranslate\yes\nno"
+then echo -e "break\nbot\npo\nmo\ntranslate\nyes\nno"
 fi
 if [ $text = "transifex" ]
 then echo "https://www.transifex.com/projects/p/database/"
