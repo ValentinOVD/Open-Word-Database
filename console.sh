@@ -54,8 +54,8 @@ then
 wget https://github.com/ValentinOVD/Open-Word-Database-m2/archive/master.tar.gz
 tar -xvf master.tar.gz
 mkdir po
-mv Open-Word-Database-master/*.po po/
-rm -r Open-Word-Database-master master.tar.gz
+mv Open-Word-Database-m2-master/*.po po/
+rm -r Open-Word-Database-m2-master master.tar.gz
 mv po/* ./
 export PO=1
 echo "Done without any problem"
