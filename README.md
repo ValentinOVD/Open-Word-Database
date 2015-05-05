@@ -14,15 +14,12 @@ We have 8102 auto-translated words in Italian !
 We have 8815 auto-translated words in Dutch !     
       
     
-You can checkout the po in the botupload branch : https://github.com/ValentinOVD/Open-Word-Database/tree/botupload
+You can checkout the po in the botupload branch using the po command in console.sh .
 
 # How to help ?
 
   
- - Add all english word you know using botscript.sh (launch the script by using ./botscript.sh)  
- and Send us the bot.pot created with the script
- Thanks for the help :)
- - You can translate the english words on Transifex : https://www.transifex.com/projects/p/database/
+ - You can translate english words into your language on Transifex : https://www.transifex.com/projects/p/database/
   
   
 # How to test ?
