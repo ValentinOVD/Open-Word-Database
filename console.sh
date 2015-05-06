@@ -1,16 +1,16 @@
 #!/bin/sh
 export PO=0
 clear
-echo "Welcome on the Open Word Database Console !\n"
+printf "Welcome on the Open Word Database Console !\n"
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/console.sh -O console.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/botscript.sh -O botscript.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-en-to-x.sh -O translation-en-to-x.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-x-to-en.sh -O translation-x-to-en.sh
 chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh console.sh
 clear
-echo "Welcome on the Open Word Database Console !"
-echo "You can translate into these language : ar, de, el, fr, it, ja ,mt, nl and ru"
-echo "Type the command translate :-)"
+printf "Welcome on the Open Word Database Console !\n"
+printf "You can translate into these language : ar, de, el, fr, it, ja ,mt, nl and ru\n"
+printf "Type the command translate :-)\n"
 while true
 do read -p ">" text
 if [ $text = "break" ]
@@ -21,8 +21,8 @@ then export PO=1
 fi
 if [ $text = "translate" ]
 then if [ $PO = "0" ]
-then echo "For this function, you need to have installed the po files"
-echo "Type po for install the po files"
+then printf "For this function, you need to have installed the po files\n"
+printf "Type po for install the po files\n"
 fi
 if [ $PO = "1" ]
 then read -p "What language ?" textd
@@ -38,10 +38,10 @@ fi
 fi
 fi
 if [ $text = "help" ]
-then echo "break\nbot\npo\nmo\ntranslate\nyes\nno"
+then printf "break\nbot\npo\nmo\ntranslate\nyes\nno\n"
 fi
 if [ $text = "transifex" ]
-then echo "https://www.transifex.com/projects/p/database/"
+then printf "https://www.transifex.com/projects/p/database/\n"
 fi
 if [ $text = "bot" ]
 then ./botscript.sh
@@ -58,7 +58,7 @@ mv Open-Word-Database-m2-master/*.po po/
 rm -r Open-Word-Database-m2-master master.tar.gz
 mv po/* ./
 export PO=1
-echo "Done without any problem"
+printf "Done without any problem\n"
 fi
 fi
 
