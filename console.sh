@@ -82,4 +82,13 @@ fi
 fi
 
 done
-rm -r po mo
+
+if [ $MO = "1" ]
+then
+rm -r mo
+fi
+if [ $PO = "1" ]
+then
+rm -r po
+fi
+
