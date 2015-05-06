@@ -2,6 +2,11 @@
   
 A project for creating a big dictionnary which contains all languages !    
     
+# Open Word Database is now available online !
+
+You can check it out here : https://valentinovd.sollidi.us/owd/
+
+# Status
     
 We have 666 reviewed words + 11896 auto-translated words in French !
 
@@ -52,3 +57,4 @@ yes
 yes
 
 And after you can use gettext : echo "\`gettext fr computer\`"
+
