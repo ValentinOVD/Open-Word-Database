@@ -65,14 +65,13 @@ fi
 if [ $text = "mo" ]
 then
 read -p "Do you want to download the mo files ? (yes/NO)" text
-echo "The binary-bot branch is deprecated"
-if [ $text = "unavailable" ]
+if [ $text = "yes" ]
 then
-wget https://github.com/ValentinOVD/Open-Word-Database/archive/binary-bot.tar.gz
-tar -xvf binarybot.tar.gz
+wget https://github.com/ValentinOVD/Open-Word-Database-bin/archive/master.tar.gz
+tar -xvf master.tar.gz
 mkdir mo
-mv Open-Word-Database-binary-bot/*.mo mo/
-rm -r Open-Word-Database-binary-bot binary-bot.tar.gz
+mv Open-Word-Database-bin-master/*.mo mo/
+rm -r Open-Word-Database-bin-master master.tar.gz
 read -p "Do you want to install the mo files ?" text
 if [ $text = "yes" ]
 then
