@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 export PO=0
 clear
-echo -e "Welcome on the Open Word Database Console !\n"
+echo "Welcome on the Open Word Database Console !\n"
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/console.sh -O console.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/botscript.sh -O botscript.sh
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-en-to-x.sh -O translation-en-to-x.sh
@@ -38,7 +38,7 @@ fi
 fi
 fi
 if [ $text = "help" ]
-then echo -e "break\nbot\npo\nmo\ntranslate\nyes\nno"
+then echo "break\nbot\npo\nmo\ntranslate\nyes\nno"
 fi
 if [ $text = "transifex" ]
 then echo "https://www.transifex.com/projects/p/database/"
