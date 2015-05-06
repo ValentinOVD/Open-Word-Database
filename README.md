@@ -14,7 +14,7 @@ We have 8102 auto-translated words in Italian !
 We have 8815 auto-translated words in Dutch !     
       
     
-You can checkout the po in the botupload branch using the po command in console.sh .
+You can checkout the po in the Open-Word-Database-m2 git using the po command in console.sh .
 
 # How to help ?
 
