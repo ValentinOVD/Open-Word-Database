@@ -12,6 +12,7 @@ msgfmt ../Open-Word-Database-m2/mt.po -o mt.mo
 msgfmt ../Open-Word-Database-m2/ar.po -o ar.mo
 msgfmt ../Open-Word-Database-m2/it.po -o it.mo
 msgfmt ../Open-Word-Database-m2/nl.po -o nl.mo
+msgfmt ../Open-Word-Database-m2/pt.po -o pt.mo
 
 echo "You can now use gettext for translate word !"
 echo -e 'Example :\necho "\`gettext en-fr computer\`'
