@@ -1,7 +1,7 @@
 # [![Build Status](https://travis-ci.org/ValentinOVD/Open-Word-Database.svg?branch=botupload)](https://travis-ci.org/ValentinOVD/Open-Word-Database) Open-Word-Database [![Bountysource](https://www.bountysource.com/badge/team?team_id=76329&style=raised)](https://www.bountysource.com/teams/vovd?utm_source=vOVD&utm_medium=shield&utm_campaign=raised)
   
 A project for creating a big dictionnary which contains all languages !    
-You can contact us on Freenode on #open-word-database :-D
+
  
 # Open Word Database is now available online !
 
