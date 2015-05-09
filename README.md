@@ -11,13 +11,15 @@ You can check it out here : https://valentinovd.sollidi.us/owd/
     
 We have 666 reviewed words + 11896 auto-translated words in French !
 
+We have 123 reviwed words +  5124 auto-translated words in Portugese !     
+
 We have 12562 auto-translated words in German, Greek, Japanese, Maltese and Russian !  
   
-We have 8785 auto-translated words in Arabic !  
+We have 8786 auto-translated words in Arabic !  
   
-We have 8102 auto-translated words in Italian !  
+We have 11212 auto-translated words in Italian !  
   
-We have 8815 auto-translated words in Dutch !     
+We have 8816 auto-translated words in Dutch !     
       
     
 You can checkout the po in the Open-Word-Database-m2 git using the po command in console.sh .
