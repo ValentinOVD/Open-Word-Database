@@ -11,7 +11,7 @@ You can check it out here : https://valentinovd.sollidi.us/owd/
     
 We have 666 reviewed words + 11896 auto-translated words in French !
 
-We have 123 reviwed words +  5124 auto-translated words in Portugese !     
+We have 520 reviewed words + 12042 auto-translated words in Portugese !     
 
 We have 12562 auto-translated words in German, Greek, Japanese, Maltese and Russian !  
   
