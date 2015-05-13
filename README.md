@@ -7,6 +7,18 @@ You can join us on #owd at Freenode
 
 You can check it out here : https://valentinovd.sollidi.us/owd/
 
+# News
+
+For v0.2, there are two versions :
+
+v0.2 (The translations will only be updated with reviewed translations and the software will be updated when a new 0.x release is released.)
+RR(v0.1) (The translations and the software will be updated with master each time you startup the software)
+RR is already available ! Use the console.sh from master or from the latest v0.1.x* for use RR.
+
+v0.2, the first stable version will be available in July.
+
+*: v0.1.x is automaticly updated with the newest master version.
+
 # Status
     
 We have 666 reviewed words + 11896 auto-translated words in French !
