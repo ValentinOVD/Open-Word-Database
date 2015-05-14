@@ -70,7 +70,7 @@ then
 wget https://github.com/ValentinOVD/Open-Word-Database-bin/archive/master.tar.gz
 tar -xvf master.tar.gz
 mkdir mo
-mv Open-Word-Database-bin-master/*.mo mo/
+mv Open-Word-Database-bin-master/build/*.mo mo/
 rm -r Open-Word-Database-bin-master master.tar.gz
 read -p "Do you want to install the mo files ?" text
 if [ $text = "yes" ]
