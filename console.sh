@@ -75,7 +75,7 @@ rm -r Open-Word-Database-bin-master master.tar.gz
 read -p "Do you want to install the mo files ?" text
 if [ $text = "yes" ]
 then
-sudo mv mo/*.mo /usr/share/locale/$LANGUAG/LC_MESSAGES/
+sudo mv mo/*.mo /usr/share/locale/$LANGUAGE/LC_MESSAGES/
 fi
 
 fi
