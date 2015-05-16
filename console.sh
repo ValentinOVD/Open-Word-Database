@@ -8,7 +8,7 @@ wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-en
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-x-to-en.sh -O translation-x-to-en.sh
 chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh console.sh
 clear
-printf "Welcome on the Open Word Database Console !\n"
+printf "Welcome on the Open Word Database Console ! v0.1.X-master\n"
 printf "You can translate into these language : ar, de, el, fr, it, ja , mt, pt, nl and ru\n"
 printf "Type the command translate :-)\n"
 while true
