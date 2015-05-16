@@ -10,37 +10,8 @@ You can check it out here : http://valentinovd.github.io
 # How to help ?
 
   
- - You can translate english words into your language on Transifex : https://www.transifex.com/projects/p/database/
+You can translate words into your language on Transifex : https://www.transifex.com/projects/p/database/
   
   
 # How to test ?
-  You can test Open Word Database by using console.sh :
-./console.sh
-
-po
-
-yes
-
-translate
-
-1
-
-fr
-
-hello
-
-		
-You can also use gettext for translating word.  
-		
-For that, install the mo files :
-
-./console.sh
-
-mo
-
-yes
-
-yes
-
-And after you can use gettext : echo "\`gettext fr computer\`"
-
+Check out the website http://valentinovd.github.io for see how to test Open Word Database and how you can translate words with OWD !
