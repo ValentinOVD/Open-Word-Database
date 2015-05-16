@@ -7,24 +7,6 @@ You can join us on #owd at Freenode
 
 You can check it out here : http://valentinovd.github.io
 
-
-# Status
-    
-We have 666 reviewed words + 11896 auto-translated words in French !
-
-We have 520 reviewed words + 12042 auto-translated words in Portugese !     
-
-We have 12562 auto-translated words in German, Greek, Japanese, Maltese and Russian !  
-  
-We have 8786 auto-translated words in Arabic !  
-  
-We have 11212 auto-translated words in Italian !  
-  
-We have 8816 auto-translated words in Dutch !     
-      
-    
-You can checkout the po in the Open-Word-Database-m2 git using the po command in console.sh .
-
 # How to help ?
 
   
