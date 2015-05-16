@@ -56,9 +56,7 @@ tar -xvf master.tar.gz
 mkdir po
 mv Open-Word-Database-m2-master/*.po po/
 rm -r Open-Word-Database-m2-master master.tar.gz
-mv po/* ./
-export PO=1
-printf "Done without any problem\n"
+mv po/* ./ && export PO=1 && printf "You can now type translate\n"
 fi
 fi
 
