@@ -15,3 +15,4 @@ You can translate words into your language on Transifex : https://www.transifex.
   
 # How to test ?
 Check out the website http://valentinovd.github.io for see how to test Open Word Database and how you can translate words with OWD !
+You can also use OWD online : http://letspractise.science/owd/
