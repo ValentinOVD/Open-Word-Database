@@ -9,14 +9,14 @@ wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/translation-x-
 chmod +x botscript.sh translation-x-to-en.sh translation-en-to-x.sh console.sh
 clear
 printf "Welcome on the Open Word Database Console ! v0.1.X-master\n"
-printf "You can translate into these language : ar, de, el, fr, it, ja , mt, pt, nl and ru\n"
+printf "You can translate into these language : ar, de, el, fr, it, ja, mt, pt, nl and ru\n"
 printf "Type the command translate :-)\n"
 while true
 do read -p ">" text
-if [ $text = "break" ]
+if [ $text = "exit" ]
 then break
 fi
-if [ $text = "force_po" ]
+if [ $text = "offline" ]
 then export PO=1
 fi
 if [ $text = "translate" ]
@@ -38,7 +38,7 @@ fi
 fi
 fi
 if [ $text = "help" ]
-then printf "break\nbot\npo\nmo\ntranslate\nyes\nno\n"
+then printf "exit\nbot\npo\nmo\ntranslate\noffline\n"
 fi
 if [ $text = "transifex" ]
 then printf "https://www.transifex.com/projects/p/database/\n"
