@@ -1,5 +1,6 @@
 #!/bin/sh
 export PO=0
+export MO=0
 clear
 printf "Welcome on the Open Word Database Console !\n"
 wget https://github.com/ValentinOVD/Open-Word-Database/raw/master/console.sh -O console.sh
